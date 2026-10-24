@@ -1,0 +1,43 @@
+{
+  "timezone": "Europe/Paris",
+  "metricool_brand_id": "7626989",
+  "calendrier": {
+    "lundi":    {"heure": "10:00", "pilier": "Savoir du mécano", "format": "carrousel 5 à 7 slides"},
+    "mardi":    {"heure": "18:00", "pilier": "Conversation", "format": "post question A/B/C"},
+    "mercredi": {"heure": "10:00", "pilier": "Coulisses ou Preuve (alterner)", "format": "carrousel 3 à 4 slides"},
+    "jeudi":    {"heure": "18:00", "pilier": "Savoir du mécano", "format": "carrousel ou post chiffre"},
+    "vendredi": {"heure": "10:00", "pilier": "Produit", "format": "carrousel cas d'usage"},
+    "samedi":   {"heure": "10:00", "pilier": "Conversation", "format": "story quiz (image 1080x1920)"},
+    "dimanche": {"heure": "18:00", "pilier": "Coulisses ou Reel grand public", "format": "story, ou Reel grand public une semaine sur deux"}
+  },
+  "banque_sujets": [
+    {"date": "2026-10-26", "sujet": "Prévol d'hiver : les points que les mécanos voient oubliés par temps froid", "fait": false},
+    {"date": "2026-10-27", "sujet": "Ton carnet de route : papier, appli ou tableur ?", "fait": false},
+    {"date": "2026-10-28", "sujet": "Pourquoi deux mécanos Part-66 ont créé Avialog", "fait": false},
+    {"date": "2026-10-29", "sujet": "Visite 50 h, 100 h, annuelle : qui fait quoi", "fait": false},
+    {"date": "2026-10-30", "sujet": "Un pilote signale un défaut, l'atelier le voit en temps réel", "fait": false},
+    {"date": "2026-11-02", "sujet": "Le Part-ML expliqué en 5 slides", "fait": false},
+    {"date": "2026-11-03", "sujet": "Givrage carburateur : tu mets le réchauffage quand ?", "fait": false},
+    {"date": "2026-11-04", "sujet": "Une journée type à l'atelier", "fait": false},
+    {"date": "2026-11-05", "sujet": "Ce que coûte vraiment une heure de vol en aéroclub", "fait": false},
+    {"date": "2026-11-06", "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc", "fait": false},
+    {"date": "2026-11-09", "sujet": "Les documents qui doivent être à bord", "fait": false},
+    {"date": "2026-11-10", "sujet": "Quiz : qui signe l'APRS ?", "fait": false},
+    {"date": "2026-11-11", "sujet": "Retour d'un aéroclub ou d'un atelier inscrit", "fait": false},
+    {"date": "2026-11-12", "sujet": "Huile moteur : lire une jauge et repérer une conso anormale", "fait": false},
+    {"date": "2026-11-13", "sujet": "L'ordre de travail suivi de l'atelier jusqu'au pilote", "fait": false},
+    {"date": "2026-11-16", "sujet": "Potentiels et butées : comprendre l'état de ton avion", "fait": false},
+    {"date": "2026-11-17", "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?", "fait": false},
+    {"date": "2026-11-18", "sujet": "Les coulisses d'une mise à jour d'Avialog", "fait": false},
+    {"date": "2026-11-19", "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler", "fait": false},
+    {"date": "2026-11-20", "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme", "fait": false}
+  ],
+  "reels_grand_public_idees": [
+    "Combien coûte vraiment un petit avion (achat, entretien, heure de vol)",
+    "Ce qu'il y a dans le moteur d'un avion de tourisme",
+    "Peut-on passer son brevet de pilote à 15 ans ?",
+    "Pourquoi les petits avions sont-ils souvent blancs ?",
+    "Le métier de mécanicien avion en 20 secondes"
+  ],
+  "apprentissages": []
+}

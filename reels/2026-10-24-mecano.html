@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:BC;src:url('../fonts/BarlowCondensed-ExtraBold.ttf');font-weight:800}
+@font-face{font-family:BC;src:url('../fonts/BarlowCondensed-SemiBold.ttf');font-weight:600}
+@font-face{font-family:SM;src:url('../fonts/SpaceMono-Bold.ttf');font-weight:700}
+@font-face{font-family:SM;src:url('../fonts/SpaceMono-Regular.ttf');font-weight:400}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;background:#080a12;color:#f4f4f5;overflow:hidden;font-family:BC}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px);background-size:60px 60px;animation:drift 20s linear both}
+@keyframes drift{to{background-position:0 600px}}
+.glow{position:absolute;width:1300px;height:1300px;left:-110px;top:310px;background:radial-gradient(circle,rgba(249,115,22,.18),transparent 60%);animation:pulse 4s ease-in-out infinite alternate}
+@keyframes pulse{to{transform:scale(1.15);opacity:.7}}
+.br{position:absolute;width:90px;height:90px;border:0 solid #F97316}
+.tl{left:60px;top:220px;border-width:7px 0 0 7px}.tr{right:60px;top:220px;border-width:7px 7px 0 0}
+.bl{left:60px;bottom:300px;border-width:0 0 7px 7px}.brr{right:60px;bottom:300px;border-width:0 7px 7px 0}
+.stripes{position:absolute;left:0;right:0;bottom:0;height:22px;background:repeating-linear-gradient(-45deg,#F97316 0 26px,transparent 26px 52px);animation:slide 20s linear both}
+@keyframes slide{to{background-position:520px 0}}
+.top{position:absolute;left:120px;right:120px;top:300px;display:flex;justify-content:space-between;font-family:SM;font-size:28px;letter-spacing:6px;color:#a1a1aa}
+.top b{color:#F97316}
+.scene{position:absolute;left:120px;right:120px;top:560px;height:820px;display:flex;flex-direction:column;justify-content:center;opacity:0}
+.eyebrow{font-family:SM;font-weight:700;font-size:34px;letter-spacing:8px;color:#F97316;margin-bottom:34px}
+h1{font-weight:800;text-transform:uppercase;line-height:.92;font-size:150px;letter-spacing:-2px}
+h1.s{font-size:120px}
+.o{color:#F97316}
+.sub{font-family:BC;font-weight:600;font-size:56px;color:#d4d4d8;margin-top:36px;line-height:1.15}
+.check{display:flex;align-items:center;gap:40px}
+.box{width:120px;height:120px;border:7px solid #F97316;border-radius:18px;flex:none;position:relative}
+.box:after{content:"";position:absolute;left:32px;top:10px;width:34px;height:66px;border:solid #F97316;border-width:0 14px 14px 0;transform:rotate(45deg);opacity:0;animation:tick .25s ease-out both;animation-delay:inherit}
+.count{font-family:SM;font-size:30px;color:#71717a;margin-top:40px;letter-spacing:4px}
+.logo{font-weight:800;font-size:220px;letter-spacing:2px;line-height:1}.logo b{color:#F97316}
+.url{font-family:SM;font-weight:700;font-size:44px;color:#080a12;background:#F97316;display:inline-block;padding:22px 38px;border-radius:14px;margin-top:50px}
+@keyframes inout{0%{opacity:0;transform:translateY(60px)}8%{opacity:1;transform:none}88%{opacity:1;transform:none}100%{opacity:0;transform:translateY(-40px)}}
+@keyframes inhold{0%{opacity:0;transform:translateY(60px)}10%{opacity:1;transform:none}100%{opacity:1;transform:none}}
+@keyframes tick{from{opacity:0;transform:rotate(45deg) scale(.3)}to{opacity:1;transform:rotate(45deg) scale(1)}}
+</style></head><body>
+<div class="grid"></div><div class="glow"></div>
+<div class="br tl"></div><div class="br tr"></div><div class="br bl"></div><div class="br brr"></div>
+<div class="top"><span>avia<b>log</b></span><span>AVIATION LÉGÈRE</span></div>
+
+<div class="scene" style="animation:inout 2.6s ease both 0s">
+  <div class="eyebrow">CE QUE PERSONNE NE TE DIT</div>
+  <h1>Tu montes dans un <span class="o">petit avion.</span></h1>
+</div>
+<div class="scene" style="animation:inout 2.6s ease both 2.6s">
+  <h1>Avant toi, un <span class="o">mécano</span> est passé.</h1>
+  <div class="sub">Voici ce qu'il a vérifié.</div>
+</div>
+<div class="scene" style="animation:inout 1.6s ease both 5.2s">
+  <div class="check"><div class="box" style="animation-delay:5.5s"></div><h1 class="s">Les commandes de vol</h1></div>
+</div>
+<div class="scene" style="animation:inout 1.6s ease both 6.8s">
+  <div class="check"><div class="box" style="animation-delay:7.1s"></div><h1 class="s">Le moteur</h1></div>
+</div>
+<div class="scene" style="animation:inout 1.6s ease both 8.4s">
+  <div class="check"><div class="box" style="animation-delay:8.7s"></div><h1 class="s">Les freins et les pneus</h1></div>
+</div>
+<div class="scene" style="animation:inout 1.6s ease both 10s">
+  <div class="check"><div class="box" style="animation-delay:10.3s"></div><h1 class="s">Chaque boulon <span class="o">serré et freiné</span></h1></div>
+</div>
+<div class="scene" style="animation:inout 2.6s ease both 11.6s">
+  <h1>Puis il a <span class="o">signé.</span></h1>
+  <div class="sub">Son nom engage la sécurité de ton vol.</div>
+</div>
+<div class="scene" style="animation:inout 2.8s ease both 14.2s">
+  <div class="eyebrow">FAIT PAR DES MÉCANOS</div>
+  <h1 class="s">Pilotes, ateliers, aéroclubs : <span class="o">enfin connectés.</span></h1>
+</div>
+<div class="scene" style="animation:inhold 3s ease both 17s">
+  <div class="logo">avia<b>log</b></div>
+  <div class="sub">La plateforme de l'aviation légère.</div>
+  <div><span class="url">avialog.fr</span></div>
+</div>
+<div class="stripes"></div>
+</body></html>
