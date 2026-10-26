@@ -1,0 +1,8 @@
+{"slides":[
+{"eyebrow":"SAVOIR DU MÉCANO","title":"Prévol d'hiver : 4 oublis qu'on voit *chaque* année","body":"Le froid ne pardonne pas les prévols faites vite. Voilà ce qu'on retrouve à l'atelier dès novembre."},
+{"eyebrow":"GIVRE ET GELÉE","title":"Une fine pellicule sur l'aile, c'est *non*","body":"La règle européenne est nette : on ne décolle qu'avec un avion débarrassé de tout dépôt qui dégrade les performances ou le contrôle. Ailes, empennage, gouvernes, pare-brise."},
+{"eyebrow":"CARBURANT","title":"Purge, même quand il *gèle*","body":"Un réservoir à moitié vide qui dort au froid, c'est de la condensation. Purge avant le premier vol du jour et après chaque avitaillement."},
+{"eyebrow":"PNEUS","stat":"-1 %","stat_label":"de pression tous les 3 °C en moins (Michelin)","title":"Gonflé au hangar, *mou* au parking","body":"20 °C d'écart entre le hangar et le parking, c'est environ 7 % de pression en moins. Contrôle à froid."},
+{"eyebrow":"MOTEUR ET BATTERIE","title":"Le froid fatigue tout le *monde*","items":[{"k":"Préchauffage","v":"Lycoming le demande sous -12 °C"},{"k":"Démarreur","v":"5 s max par tentative"},{"k":"Batterie","v":"Capacité réduite à froid"},{"k":"Huile","v":"Pas de pression en 30 s : on coupe"}]},
+{"eyebrow":"À TOI","title":"Ton oubli le plus *fréquent* l'hiver ?","choices":["La purge","La pression des pneus","Le givre sur l'empennage"]}
+]}
