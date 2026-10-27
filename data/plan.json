@@ -47,7 +47,8 @@
     {
       "date": "2026-10-27",
       "sujet": "Ton carnet de route : papier, appli ou tableur ?",
-      "fait": false
+      "fait": true,
+      "note": "traité côté pilote : carnet de vol (relevé FCL.050) plutôt que carnet de route de l'avion"
     },
     {
       "date": "2026-10-28",
@@ -159,6 +160,14 @@
     {
       "date": "2026-10-26",
       "regle": "Observation à confirmer (pas une règle) : sur le Reel du 24/10, seuls 26,6 % des vues dépassent 3 s ; tester une accroche visuelle plus forte dès la première seconde au prochain Reel."
+    },
+    {
+      "date": "2026-10-27",
+      "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 134, 168 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+1 : portée 4, 12 vues, 1 interaction). Abonnés stables à 32, gains/pertes non remontés. Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-27",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 ne touche presque que les abonnés à J+1 (portée 4) alors que le Reel a atteint 134 personnes ; comparer à J+7 avant de conclure sur le format."
     }
   ]
 }
