@@ -53,7 +53,7 @@
     {
       "date": "2026-10-28",
       "sujet": "Pourquoi deux mécanos Part-66 ont créé Avialog",
-      "fait": false
+      "fait": true
     },
     {
       "date": "2026-10-29",
@@ -168,6 +168,14 @@
     {
       "date": "2026-10-27",
       "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 ne touche presque que les abonnés à J+1 (portée 4) alors que le Reel a atteint 134 personnes ; comparer à J+7 avant de conclure sur le format."
+    },
+    {
+      "date": "2026-10-28",
+      "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 135, 171 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+2 : portée 17, 43 vues, 4 interactions, 0 enregistrement). Post question du 27/10 pas encore remonté. Abonnés stables à 32 (dernier relevé 26/10). Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-28",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 passe de 4 à 17 de portée entre J+1 et J+2 ; les carrousels semblent démarrer lentement, juger leur performance à J+7 plutôt qu'à J+1."
     }
   ]
 }

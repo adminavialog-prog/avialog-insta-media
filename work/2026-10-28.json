@@ -1,0 +1,6 @@
+{"slides":[
+{"eyebrow":"COULISSES","title":"Pourquoi deux *mécanos* ont créé Avialog","body":"Alexis et Jules, mécaniciens titulaires d'une licence Part-66 : la licence européenne qui permet de signer la remise en service d'un avion."},
+{"eyebrow":"CE QU'ON VOULAIT RÉGLER","title":"La même info, *quatre* endroits","items":[{"k":"Pilote","v":"Un défaut noté sur papier ou dit au téléphone"},{"k":"Atelier","v":"L'info qui arrive tard ou incomplète"},{"k":"Aéroclub","v":"Planning et potentiels suivis à part"},{"k":"CAMO","v":"Des documents à recoller ensemble"}]},
+{"eyebrow":"LA RÉPONSE","title":"Une plateforme, en *temps réel*","body":"Avialog interconnecte pilotes, ateliers Part-CAO, aéroclubs et CAMO. Une info saisie une fois, visible tout de suite par ceux qui en ont besoin."},
+{"eyebrow":"À TOI","title":"Chez toi, un défaut se *signale* comment ?","choices":["Sur le carnet de route","Par téléphone ou message","Dans une appli"]}
+]}
