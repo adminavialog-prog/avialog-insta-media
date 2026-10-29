@@ -1,0 +1,8 @@
+{"slides":[
+{"eyebrow":"SAVOIR DU MÉCANO","title":"Visite 50 h, 100 h, annuelle : *qui* fait quoi ?","body":"Trois visites que tout pilote croise sur le planning. Voilà comment ça se répartit sous Part-ML, la règle européenne de l'aviation légère."},
+{"eyebrow":"VISITE 100 H / ANNUELLE","stat":"100 h","stat_label":"ou 12 mois, au premier terme atteint","title":"La grosse visite du programme *minimal*","body":"Tolérance : 1 mois ou 10 h. Et la suivante se compte à partir du jour où elle a vraiment été faite."},
+{"eyebrow":"VISITE 50 H","title":"La 50 h vient du *constructeur*","body":"Le programme minimal Part-ML ne l'impose pas. Si les données du constructeur la prévoient et que ton programme d'entretien les reprend, elle s'applique."},
+{"eyebrow":"QUI SIGNE L'APRS","title":"Trois signatures *possibles*","items":[{"k":"Atelier agréé","v":"Son personnel habilité (Part-CAO, Part-145)"},{"k":"Mécano indépendant","v":"Licence Part-66 adaptée à l'avion"},{"k":"Pilote-propriétaire","v":"Tâches simples seulement, jamais les tâches complexes"}]},
+{"eyebrow":"EXAMEN DE NAVIGABILITÉ","title":"L'ARC peut se faire *pendant* l'annuelle","body":"L'EASA prévoit le cas où l'examen de navigabilité est mené en même temps que la visite 100 h / annuelle. Une seule immobilisation au lieu de deux."},
+{"eyebrow":"À TOI","title":"Ta prochaine visite, tu sais *quand* elle tombe ?","choices":["Oui, date et heures en tête","À peu près","Je demande à l'atelier"]}
+]}
