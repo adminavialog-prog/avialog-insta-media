@@ -58,7 +58,7 @@
     {
       "date": "2026-10-29",
       "sujet": "Visite 50 h, 100 h, annuelle : qui fait quoi",
-      "fait": false
+      "fait": true
     },
     {
       "date": "2026-10-30",
@@ -176,6 +176,14 @@
     {
       "date": "2026-10-28",
       "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 passe de 4 à 17 de portée entre J+1 et J+2 ; les carrousels semblent démarrer lentement, juger leur performance à J+7 plutôt qu'à J+1."
+    },
+    {
+      "date": "2026-10-29",
+      "regle": "Données insuffisantes : 3 publications mesurées sur 30 jours (Reel du 24/10 : portée 137, 173 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+3 : portée 20, 49 vues, 8 interactions, 0 enregistrement ; post question du 27/10 à J+2 : portée 7, 14 vues, 2 interactions, 0 commentaire). Carrousel du 28/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu au 29/10). Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-29",
+      "regle": "Observation à confirmer (pas une règle) : le post question du 27/10 n'a obtenu aucun commentaire (portée 7) ; avec 32 abonnés, le levier « conversation » dépend d'abord de la portée. À revoir quand 5 publications seront mesurées."
     }
   ]
 }
