@@ -1,0 +1,63 @@
+{
+"slides": [
+{
+"eyebrow": "PRODUIT",
+"title": "Tu signales un défaut. L'atelier le voit *tout de suite*.",
+"body": "Pas au vol d'après. Pas quand quelqu'un pense à rappeler. Tout de suite."
+},
+{
+"eyebrow": "SANS LIEN ENTRE LES ACTEURS",
+"title": "Un défaut, *trois* trajets incertains",
+"items": [
+{
+"k": "Carnet de route",
+"v": "Lu au prochain passage de l'avion... ou pas"
+},
+{
+"k": "Téléphone, message",
+"v": "Dépend de qui décroche et de qui transmet"
+},
+{
+"k": "Tableau du club",
+"v": "Visible seulement par ceux qui passent devant"
+}
+]
+},
+{
+"eyebrow": "CE QUE DIT LA RÈGLE",
+"title": "Un défaut reporté doit être *tracé*",
+"body": "Part-ML (ML.A.403) : un défaut qui met sérieusement en jeu la sécurité se corrige avant le vol. Un défaut non corrigé avant le vol est enregistré, et le pilote doit pouvoir le consulter."
+},
+{
+"eyebrow": "AVEC AVIALOG",
+"title": "Saisi *une fois*, vu par tous",
+"items": [
+{
+"k": "Pilote",
+"v": "Signale le défaut depuis son compte"
+},
+{
+"k": "Atelier Part-CAO",
+"v": "Le voit en temps réel"
+},
+{
+"k": "Aéroclub",
+"v": "Sait quel avion est concerné"
+},
+{
+"k": "CAMO",
+"v": "Suit l'état de navigabilité"
+}
+]
+},
+{
+"eyebrow": "À TOI",
+"title": "Ton dernier défaut, l'atelier l'a su *quand* ?",
+"choices": [
+"Le jour même",
+"Au vol suivant",
+"À la visite"
+]
+}
+]
+}

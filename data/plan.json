@@ -1,189 +1,197 @@
 {
-  "timezone": "Europe/Paris",
-  "metricool_brand_id": "7626989",
-  "calendrier": {
-    "lundi": {
-      "heure": "10:00",
-      "pilier": "Savoir du mécano",
-      "format": "carrousel 5 à 7 slides"
-    },
-    "mardi": {
-      "heure": "18:00",
-      "pilier": "Conversation",
-      "format": "post question A/B/C"
-    },
-    "mercredi": {
-      "heure": "10:00",
-      "pilier": "Coulisses ou Preuve (alterner)",
-      "format": "carrousel 3 à 4 slides"
-    },
-    "jeudi": {
-      "heure": "18:00",
-      "pilier": "Savoir du mécano",
-      "format": "carrousel ou post chiffre"
-    },
-    "vendredi": {
-      "heure": "10:00",
-      "pilier": "Produit",
-      "format": "carrousel cas d'usage"
-    },
-    "samedi": {
-      "heure": "10:00",
-      "pilier": "Conversation",
-      "format": "story quiz (image 1080x1920)"
-    },
-    "dimanche": {
-      "heure": "18:00",
-      "pilier": "Coulisses ou Reel grand public",
-      "format": "story, ou Reel grand public une semaine sur deux"
-    }
+ "timezone": "Europe/Paris",
+ "metricool_brand_id": "7626989",
+ "calendrier": {
+  "lundi": {
+   "heure": "10:00",
+   "pilier": "Savoir du mécano",
+   "format": "carrousel 5 à 7 slides"
   },
-  "banque_sujets": [
-    {
-      "date": "2026-10-26",
-      "sujet": "Prévol d'hiver : les points que les mécanos voient oubliés par temps froid",
-      "fait": true
-    },
-    {
-      "date": "2026-10-27",
-      "sujet": "Ton carnet de route : papier, appli ou tableur ?",
-      "fait": true,
-      "note": "traité côté pilote : carnet de vol (relevé FCL.050) plutôt que carnet de route de l'avion"
-    },
-    {
-      "date": "2026-10-28",
-      "sujet": "Pourquoi deux mécanos Part-66 ont créé Avialog",
-      "fait": true
-    },
-    {
-      "date": "2026-10-29",
-      "sujet": "Visite 50 h, 100 h, annuelle : qui fait quoi",
-      "fait": true
-    },
-    {
-      "date": "2026-10-30",
-      "sujet": "Un pilote signale un défaut, l'atelier le voit en temps réel",
-      "fait": false
-    },
-    {
-      "date": "2026-11-02",
-      "sujet": "Le Part-ML expliqué en 5 slides",
-      "fait": false
-    },
-    {
-      "date": "2026-11-03",
-      "sujet": "Givrage carburateur : tu mets le réchauffage quand ?",
-      "fait": false
-    },
-    {
-      "date": "2026-11-04",
-      "sujet": "Une journée type à l'atelier",
-      "fait": false
-    },
-    {
-      "date": "2026-11-05",
-      "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
-      "fait": false
-    },
-    {
-      "date": "2026-11-06",
-      "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
-      "fait": false
-    },
-    {
-      "date": "2026-11-09",
-      "sujet": "Les documents qui doivent être à bord",
-      "fait": false
-    },
-    {
-      "date": "2026-11-10",
-      "sujet": "Quiz : qui signe l'APRS ?",
-      "fait": false
-    },
-    {
-      "date": "2026-11-11",
-      "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
-      "fait": false
-    },
-    {
-      "date": "2026-11-12",
-      "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
-      "fait": false
-    },
-    {
-      "date": "2026-11-13",
-      "sujet": "L'ordre de travail suivi de l'atelier jusqu'au pilote",
-      "fait": false
-    },
-    {
-      "date": "2026-11-16",
-      "sujet": "Potentiels et butées : comprendre l'état de ton avion",
-      "fait": false
-    },
-    {
-      "date": "2026-11-17",
-      "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?",
-      "fait": false
-    },
-    {
-      "date": "2026-11-18",
-      "sujet": "Les coulisses d'une mise à jour d'Avialog",
-      "fait": false
-    },
-    {
-      "date": "2026-11-19",
-      "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler",
-      "fait": false
-    },
-    {
-      "date": "2026-11-20",
-      "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme",
-      "fait": false
-    }
-  ],
-  "reels_grand_public_idees": [
-    "Combien coûte vraiment un petit avion (achat, entretien, heure de vol)",
-    "Ce qu'il y a dans le moteur d'un avion de tourisme",
-    "Peut-on passer son brevet de pilote à 15 ans ?",
-    "Pourquoi les petits avions sont-ils souvent blancs ?",
-    "Le métier de mécanicien avion en 20 secondes"
-  ],
-  "apprentissages": [
-    {
-      "date": "2026-10-25",
-      "regle": "Données insuffisantes : aucune publication mesurée dans Metricool sur 30 jours (Reel du 24/10 pas encore remonté), 32 abonnés au 23/10. Aucune tendance tirée ; on suit le calendrier prévu."
-    },
-    {
-      "date": "2026-10-26",
-      "regle": "Données insuffisantes : 1 seule publication mesurée (Reel du 24/10 : portée 127, 160 vues, 10 interactions, 1 enregistrement, 0 partage, 0 commentaire, 26,6 % de vues >3 s, 4,3 s de visionnage moyen). La story du 25/10 ne remonte pas dans les métriques posts/reels. 32 abonnés, pas d'évolution mesurable. Aucune tendance tirée."
-    },
-    {
-      "date": "2026-10-26",
-      "regle": "Observation à confirmer (pas une règle) : sur le Reel du 24/10, seuls 26,6 % des vues dépassent 3 s ; tester une accroche visuelle plus forte dès la première seconde au prochain Reel."
-    },
-    {
-      "date": "2026-10-27",
-      "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 134, 168 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+1 : portée 4, 12 vues, 1 interaction). Abonnés stables à 32, gains/pertes non remontés. Aucune tendance tirée, calendrier suivi."
-    },
-    {
-      "date": "2026-10-27",
-      "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 ne touche presque que les abonnés à J+1 (portée 4) alors que le Reel a atteint 134 personnes ; comparer à J+7 avant de conclure sur le format."
-    },
-    {
-      "date": "2026-10-28",
-      "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 135, 171 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+2 : portée 17, 43 vues, 4 interactions, 0 enregistrement). Post question du 27/10 pas encore remonté. Abonnés stables à 32 (dernier relevé 26/10). Aucune tendance tirée, calendrier suivi."
-    },
-    {
-      "date": "2026-10-28",
-      "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 passe de 4 à 17 de portée entre J+1 et J+2 ; les carrousels semblent démarrer lentement, juger leur performance à J+7 plutôt qu'à J+1."
-    },
-    {
-      "date": "2026-10-29",
-      "regle": "Données insuffisantes : 3 publications mesurées sur 30 jours (Reel du 24/10 : portée 137, 173 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+3 : portée 20, 49 vues, 8 interactions, 0 enregistrement ; post question du 27/10 à J+2 : portée 7, 14 vues, 2 interactions, 0 commentaire). Carrousel du 28/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu au 29/10). Aucune tendance tirée, calendrier suivi."
-    },
-    {
-      "date": "2026-10-29",
-      "regle": "Observation à confirmer (pas une règle) : le post question du 27/10 n'a obtenu aucun commentaire (portée 7) ; avec 32 abonnés, le levier « conversation » dépend d'abord de la portée. À revoir quand 5 publications seront mesurées."
-    }
-  ]
+  "mardi": {
+   "heure": "18:00",
+   "pilier": "Conversation",
+   "format": "post question A/B/C"
+  },
+  "mercredi": {
+   "heure": "10:00",
+   "pilier": "Coulisses ou Preuve (alterner)",
+   "format": "carrousel 3 à 4 slides"
+  },
+  "jeudi": {
+   "heure": "18:00",
+   "pilier": "Savoir du mécano",
+   "format": "carrousel ou post chiffre"
+  },
+  "vendredi": {
+   "heure": "10:00",
+   "pilier": "Produit",
+   "format": "carrousel cas d'usage"
+  },
+  "samedi": {
+   "heure": "10:00",
+   "pilier": "Conversation",
+   "format": "story quiz (image 1080x1920)"
+  },
+  "dimanche": {
+   "heure": "18:00",
+   "pilier": "Coulisses ou Reel grand public",
+   "format": "story, ou Reel grand public une semaine sur deux"
+  }
+ },
+ "banque_sujets": [
+  {
+   "date": "2026-10-26",
+   "sujet": "Prévol d'hiver : les points que les mécanos voient oubliés par temps froid",
+   "fait": true
+  },
+  {
+   "date": "2026-10-27",
+   "sujet": "Ton carnet de route : papier, appli ou tableur ?",
+   "fait": true,
+   "note": "traité côté pilote : carnet de vol (relevé FCL.050) plutôt que carnet de route de l'avion"
+  },
+  {
+   "date": "2026-10-28",
+   "sujet": "Pourquoi deux mécanos Part-66 ont créé Avialog",
+   "fait": true
+  },
+  {
+   "date": "2026-10-29",
+   "sujet": "Visite 50 h, 100 h, annuelle : qui fait quoi",
+   "fait": true
+  },
+  {
+   "date": "2026-10-30",
+   "sujet": "Un pilote signale un défaut, l'atelier le voit en temps réel",
+   "fait": true
+  },
+  {
+   "date": "2026-11-02",
+   "sujet": "Le Part-ML expliqué en 5 slides",
+   "fait": false
+  },
+  {
+   "date": "2026-11-03",
+   "sujet": "Givrage carburateur : tu mets le réchauffage quand ?",
+   "fait": false
+  },
+  {
+   "date": "2026-11-04",
+   "sujet": "Une journée type à l'atelier",
+   "fait": false
+  },
+  {
+   "date": "2026-11-05",
+   "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
+   "fait": false
+  },
+  {
+   "date": "2026-11-06",
+   "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
+   "fait": false
+  },
+  {
+   "date": "2026-11-09",
+   "sujet": "Les documents qui doivent être à bord",
+   "fait": false
+  },
+  {
+   "date": "2026-11-10",
+   "sujet": "Quiz : qui signe l'APRS ?",
+   "fait": false
+  },
+  {
+   "date": "2026-11-11",
+   "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
+   "fait": false
+  },
+  {
+   "date": "2026-11-12",
+   "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
+   "fait": false
+  },
+  {
+   "date": "2026-11-13",
+   "sujet": "L'ordre de travail suivi de l'atelier jusqu'au pilote",
+   "fait": false
+  },
+  {
+   "date": "2026-11-16",
+   "sujet": "Potentiels et butées : comprendre l'état de ton avion",
+   "fait": false
+  },
+  {
+   "date": "2026-11-17",
+   "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?",
+   "fait": false
+  },
+  {
+   "date": "2026-11-18",
+   "sujet": "Les coulisses d'une mise à jour d'Avialog",
+   "fait": false
+  },
+  {
+   "date": "2026-11-19",
+   "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler",
+   "fait": false
+  },
+  {
+   "date": "2026-11-20",
+   "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme",
+   "fait": false
+  }
+ ],
+ "reels_grand_public_idees": [
+  "Combien coûte vraiment un petit avion (achat, entretien, heure de vol)",
+  "Ce qu'il y a dans le moteur d'un avion de tourisme",
+  "Peut-on passer son brevet de pilote à 15 ans ?",
+  "Pourquoi les petits avions sont-ils souvent blancs ?",
+  "Le métier de mécanicien avion en 20 secondes"
+ ],
+ "apprentissages": [
+  {
+   "date": "2026-10-25",
+   "regle": "Données insuffisantes : aucune publication mesurée dans Metricool sur 30 jours (Reel du 24/10 pas encore remonté), 32 abonnés au 23/10. Aucune tendance tirée ; on suit le calendrier prévu."
+  },
+  {
+   "date": "2026-10-26",
+   "regle": "Données insuffisantes : 1 seule publication mesurée (Reel du 24/10 : portée 127, 160 vues, 10 interactions, 1 enregistrement, 0 partage, 0 commentaire, 26,6 % de vues >3 s, 4,3 s de visionnage moyen). La story du 25/10 ne remonte pas dans les métriques posts/reels. 32 abonnés, pas d'évolution mesurable. Aucune tendance tirée."
+  },
+  {
+   "date": "2026-10-26",
+   "regle": "Observation à confirmer (pas une règle) : sur le Reel du 24/10, seuls 26,6 % des vues dépassent 3 s ; tester une accroche visuelle plus forte dès la première seconde au prochain Reel."
+  },
+  {
+   "date": "2026-10-27",
+   "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 134, 168 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+1 : portée 4, 12 vues, 1 interaction). Abonnés stables à 32, gains/pertes non remontés. Aucune tendance tirée, calendrier suivi."
+  },
+  {
+   "date": "2026-10-27",
+   "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 ne touche presque que les abonnés à J+1 (portée 4) alors que le Reel a atteint 134 personnes ; comparer à J+7 avant de conclure sur le format."
+  },
+  {
+   "date": "2026-10-28",
+   "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 135, 171 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+2 : portée 17, 43 vues, 4 interactions, 0 enregistrement). Post question du 27/10 pas encore remonté. Abonnés stables à 32 (dernier relevé 26/10). Aucune tendance tirée, calendrier suivi."
+  },
+  {
+   "date": "2026-10-28",
+   "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 passe de 4 à 17 de portée entre J+1 et J+2 ; les carrousels semblent démarrer lentement, juger leur performance à J+7 plutôt qu'à J+1."
+  },
+  {
+   "date": "2026-10-29",
+   "regle": "Données insuffisantes : 3 publications mesurées sur 30 jours (Reel du 24/10 : portée 137, 173 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+3 : portée 20, 49 vues, 8 interactions, 0 enregistrement ; post question du 27/10 à J+2 : portée 7, 14 vues, 2 interactions, 0 commentaire). Carrousel du 28/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu au 29/10). Aucune tendance tirée, calendrier suivi."
+  },
+  {
+   "date": "2026-10-29",
+   "regle": "Observation à confirmer (pas une règle) : le post question du 27/10 n'a obtenu aucun commentaire (portée 7) ; avec 32 abonnés, le levier « conversation » dépend d'abord de la portée. À revoir quand 5 publications seront mesurées."
+  },
+  {
+   "date": "2026-10-30",
+   "regle": "Données insuffisantes : 4 publications mesurées sur 30 jours (Reel du 24/10 : portée 138, 176 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+4 : portée 21, 53 vues, 9 interactions ; post question du 27/10 à J+3 : portée 13, 25 vues, 5 interactions, 0 commentaire ; carrousel coulisses du 28/10 à J+2 : portée 20, 59 vues, 8 interactions). 0 enregistrement, 0 partage, 0 commentaire sur les posts du feed. Carrousel du 29/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu). Aucune tendance tirée, calendrier suivi."
+  },
+  {
+   "date": "2026-10-30",
+   "regle": "Observation à confirmer (pas une règle) : le carrousel coulisses du 28/10 atteint à J+2 la même portée (20) que le carrousel prévol du 26/10 à J+4 (21), avec plus de vues (59 contre 53). À comparer à J+7 ; le Reel reste seul à dépasser la base des 32 abonnés."
+  }
+ ]
 }
