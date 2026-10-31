@@ -192,6 +192,26 @@
   {
    "date": "2026-10-30",
    "regle": "Observation à confirmer (pas une règle) : le carrousel coulisses du 28/10 atteint à J+2 la même portée (20) que le carrousel prévol du 26/10 à J+4 (21), avec plus de vues (59 contre 53). À comparer à J+7 ; le Reel reste seul à dépasser la base des 32 abonnés."
+  },
+  {
+   "date": "2026-10-31",
+   "regle": "6 publications mesurées sur 30 jours (1 Reel, 4 carrousels, 1 post simple). Abonnés stables à 32 (0 gagné, 0 perdu, 0 follow attribué à un post). Premières règles tirées, échantillon encore très petit : à reconfirmer chaque semaine."
+  },
+  {
+   "date": "2026-10-31",
+   "regle": "Le Reel est le seul format qui sort de la base d'abonnés : portée 138 contre 22 au mieux pour un post du feed (environ 6x). Priorité au Reel grand public du dimanche 1er novembre ; envisager un 2e Reel par semaine si le prochain confirme."
+  },
+  {
+   "date": "2026-10-31",
+   "regle": "Les carrousels font environ 2x plus de vues que le post question simple : 50 à 61 vues (17 à 22 de portée) contre 26 vues (13 de portée) pour le post A/B/C du 27/10. Garder le carrousel comme format par défaut du feed ; le mardi « post question » peut passer en carrousel court avec question en dernière slide."
+  },
+  {
+   "date": "2026-10-31",
+   "regle": "0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed malgré une question A/B/C dans chaque légende : à 32 abonnés, la question fermée ne déclenche pas de réponse. Le levier n'est pas la question mais la portée (Reels)."
+  },
+  {
+   "date": "2026-10-31",
+   "regle": "Observation à confirmer (pas une règle) : le carrousel Savoir du 29/10 (18:00) atteint 50 vues à J+1,5, plus vite que le prévol du 26/10 (12 vues à J+1, 10:00). Comparer créneaux 10:00 et 18:00 sur les 2 prochaines semaines."
   }
  ]
 }
