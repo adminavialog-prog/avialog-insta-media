@@ -1,0 +1,89 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:BC;src:url('../fonts/BarlowCondensed-ExtraBold.ttf');font-weight:800}
+@font-face{font-family:BC;src:url('../fonts/BarlowCondensed-SemiBold.ttf');font-weight:600}
+@font-face{font-family:SM;src:url('../fonts/SpaceMono-Bold.ttf');font-weight:700}
+@font-face{font-family:SM;src:url('../fonts/SpaceMono-Regular.ttf');font-weight:400}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;background:#080a12;color:#f4f4f5;overflow:hidden;font-family:BC}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px);background-size:60px 60px;animation:drift 23s linear both}
+@keyframes drift{to{background-position:0 600px}}
+.glow{position:absolute;width:1300px;height:1300px;left:-110px;top:310px;background:radial-gradient(circle,rgba(249,115,22,.18),transparent 60%);animation:pulse 4s ease-in-out infinite alternate}
+@keyframes pulse{to{transform:scale(1.15);opacity:.7}}
+.br{position:absolute;width:90px;height:90px;border:0 solid #F97316}
+.tl{left:60px;top:220px;border-width:7px 0 0 7px}.tr{right:60px;top:220px;border-width:7px 7px 0 0}
+.bl{left:60px;bottom:300px;border-width:0 0 7px 7px}.brr{right:60px;bottom:300px;border-width:0 7px 7px 0}
+.stripes{position:absolute;left:0;right:0;bottom:0;height:22px;background:repeating-linear-gradient(-45deg,#F97316 0 26px,transparent 26px 52px);animation:slide 23s linear both}
+@keyframes slide{to{background-position:520px 0}}
+.top{position:absolute;left:120px;right:120px;top:300px;display:flex;justify-content:space-between;font-family:SM;font-size:28px;letter-spacing:6px;color:#a1a1aa}
+.top b{color:#F97316}
+.scene{position:absolute;left:120px;right:120px;top:560px;height:820px;display:flex;flex-direction:column;justify-content:center;opacity:0}
+.eyebrow{font-family:SM;font-weight:700;font-size:34px;letter-spacing:8px;color:#F97316;margin-bottom:34px}
+h1{font-weight:800;text-transform:uppercase;line-height:.92;font-size:150px;letter-spacing:-2px}
+h1.s{font-size:120px}
+.o{color:#F97316}
+.sub{font-family:BC;font-weight:600;font-size:56px;color:#d4d4d8;margin-top:36px;line-height:1.15}
+.check{display:flex;align-items:center;gap:40px}
+.box{width:120px;height:120px;border:7px solid #F97316;border-radius:18px;flex:none;position:relative}
+.box:after{content:"";position:absolute;left:32px;top:10px;width:34px;height:66px;border:solid #F97316;border-width:0 14px 14px 0;transform:rotate(45deg);opacity:0;animation:tick .25s ease-out both;animation-delay:inherit}
+.count{font-family:SM;font-size:30px;color:#71717a;margin-top:40px;letter-spacing:4px}
+.logo{font-weight:800;font-size:220px;letter-spacing:2px;line-height:1}.logo b{color:#F97316}
+.url{font-family:SM;font-weight:700;font-size:44px;color:#080a12;background:#F97316;display:inline-block;padding:22px 38px;border-radius:14px;margin-top:50px}
+@keyframes inout{0%{opacity:0;transform:translateY(60px)}8%{opacity:1;transform:none}88%{opacity:1;transform:none}100%{opacity:0;transform:translateY(-40px)}}
+@keyframes inhold{0%{opacity:0;transform:translateY(60px)}10%{opacity:1;transform:none}100%{opacity:1;transform:none}}
+@keyframes tick{from{opacity:0;transform:rotate(45deg) scale(.3)}to{opacity:1;transform:rotate(45deg) scale(1)}}
+
+@keyframes hookout{0%{opacity:1;transform:none}88%{opacity:1;transform:none}100%{opacity:0;transform:translateY(-40px)}}
+.plane{width:840px;height:auto;margin:0 0 50px -10px}
+.plane .body{fill:#f4f4f5}
+.dark .body{animation:darken 1.6s ease both;animation-delay:inherit}
+@keyframes darken{from{fill:#f4f4f5}to{fill:#27272a}}
+.heat{position:absolute;inset:0;background:radial-gradient(circle at 50% 30%,rgba(249,115,22,.35),transparent 55%);opacity:0;animation:heat 3.6s ease both 9s}
+@keyframes heat{0%{opacity:0}40%{opacity:1}88%{opacity:1}100%{opacity:0}}
+.big{font-size:330px;line-height:.9}
+</style></head><body>
+<div class="grid"></div><div class="glow"></div><div class="heat"></div>
+<div class="br tl"></div><div class="br tr"></div><div class="br bl"></div><div class="br brr"></div>
+<div class="top"><span>avia<b>log</b></span><span>AVIATION LÉGÈRE</span></div>
+<div class="scene" style="animation:hookout 2.8s ease both 0s">
+<svg class="plane" viewBox="0 0 840 230" xmlns="http://www.w3.org/2000/svg"><g class="body">
+<path d="M60 112 L150 106 L410 98 Q450 62 540 60 Q600 62 650 94 L730 102 Q775 108 782 122 Q775 138 730 142 L410 150 L150 128 Z"/>
+<path d="M62 112 L84 28 L128 28 L176 107 Z"/>
+<rect x="40" y="114" width="150" height="10" rx="5"/>
+<rect x="390" y="140" width="290" height="14" rx="7"/>
+<ellipse cx="786" cy="122" rx="14" ry="16"/>
+<rect x="796" y="52" width="10" height="140" rx="5"/>
+<path d="M436 98 Q470 72 540 72 Q585 74 625 98 Z" fill="#080a12" opacity=".6"/>
+<rect x="516" y="152" width="8" height="44"/><circle cx="520" cy="204" r="17"/>
+<rect x="736" y="140" width="8" height="52"/><circle cx="740" cy="200" r="14"/>
+</g></svg><div class="eyebrow">TU L'AS REMARQUÉ ?</div><h1 class="s">Pourquoi les petits avions sont presque tous <span class="o">blancs ?</span></h1>
+</div>
+<div class="scene" style="animation:inout 2.8s ease both 2.8s">
+<h1>Pas pour faire <span class="o">joli.</span></h1><div class="sub">C'est une question de chaleur.</div>
+</div>
+<div class="scene" style="animation:inout 3.4s ease both 5.6s">
+<h1 class="s">Beaucoup sont en <span class="o">composite.</span></h1><div class="sub">Fibre de verre ou de carbone, tenue par de la résine.</div>
+</div>
+<div class="scene" style="animation:inout 3.6s ease both 9.0s">
+<svg class="plane dark" style="animation-delay:9.4s" viewBox="0 0 840 230" xmlns="http://www.w3.org/2000/svg"><g class="body">
+<path d="M60 112 L150 106 L410 98 Q450 62 540 60 Q600 62 650 94 L730 102 Q775 108 782 122 Q775 138 730 142 L410 150 L150 128 Z"/>
+<path d="M62 112 L84 28 L128 28 L176 107 Z"/>
+<rect x="40" y="114" width="150" height="10" rx="5"/>
+<rect x="390" y="140" width="290" height="14" rx="7"/>
+<ellipse cx="786" cy="122" rx="14" ry="16"/>
+<rect x="796" y="52" width="10" height="140" rx="5"/>
+<path d="M436 98 Q470 72 540 72 Q585 74 625 98 Z" fill="#080a12" opacity=".6"/>
+<rect x="516" y="152" width="8" height="44"/><circle cx="520" cy="204" r="17"/>
+<rect x="736" y="140" width="8" height="52"/><circle cx="740" cy="200" r="14"/>
+</g></svg><h1 class="s">Au soleil, le foncé <span class="o">chauffe.</span></h1><div class="sub">Et la résine n'aime pas la chaleur.</div>
+</div>
+<div class="scene" style="animation:inout 3.6s ease both 12.6s">
+<div class="eyebrow">CERTIFICATION EASA</div><h1 class="big"><span class="o">54 °C</span></h1><div class="sub">La température de référence retenue pour un composite peint en blanc.</div>
+</div>
+<div class="scene" style="animation:inout 3.0s ease both 16.2s">
+<h1 class="s">Le repeindre en <span class="o">noir ?</span></h1><div class="sub">Le manuel d'entretien peut limiter les couleurs autorisées.</div>
+</div>
+<div class="scene" style="animation:inhold 3.8s ease both 19.2s">
+<div class="logo">avia<b>log</b></div><div class="sub">Fait par des mécanos, pour l'aviation légère.</div><div><span class="url">avialog.fr</span></div>
+</div>
+<div class="stripes"></div>
+</body></html>
