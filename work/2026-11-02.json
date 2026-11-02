@@ -1,0 +1,9 @@
+{"slides":[
+{"eyebrow":"SAVOIR DU MÉCANO","title":"Le *Part-ML* en 5 points","body":"La règle européenne qui encadre l'entretien de ton avion léger depuis le 24 mars 2020. Ce que tout pilote devrait en savoir."},
+{"eyebrow":"QUI EST CONCERNÉ","title":"Ton avion est sûrement *dedans*","items":[{"k":"Avions","v":"Masse max au décollage jusqu'à 2 730 kg"},{"k":"Hélicoptères","v":"Jusqu'à 1 200 kg et 4 occupants max"},{"k":"Planeurs et ballons","v":"Ainsi que la plupart des dirigeables"}],"body":"Sauf les appareils d'une compagnie aérienne."},
+{"eyebrow":"QUI EST RESPONSABLE","title":"Le *propriétaire*, avant tout","body":"La navigabilité de l'avion, c'est sa responsabilité. Il peut la gérer lui-même ou la confier par contrat à une CAMO ou à un atelier Part-CAO."},
+{"eyebrow":"LE PROGRAMME D'ENTRETIEN","title":"Il peut être *déclaré* par le propriétaire","body":"Plus d'approbation par l'autorité. Minimum : visite 100 h ou annuelle, tolérance 1 mois ou 10 h. Consignes de navigabilité et limitations : non négociables."},
+{"eyebrow":"L'EXAMEN DE NAVIGABILITÉ","stat":"1 an","stat_label":"durée de validité de l'ARC","title":"Qui le délivre ?","body":"Un atelier Part-CAO, une CAMO, ou un mécano Part-66 indépendant habilité pour ça."},
+{"eyebrow":"LE PILOTE-PROPRIÉTAIRE","title":"*Toi*, tu peux faire quoi ?","body":"Des tâches simples, listées par la règle, si tu es propriétaire et pilote de l'avion. Jamais les tâches de la visite 100 h / annuelle, ni les commandes de vol critiques."},
+{"eyebrow":"À TOI","title":"Ton avion, qui gère sa *navigabilité* ?","choices":["Le propriétaire lui-même","Une CAMO ou un atelier Part-CAO","Aucune idée, je vole au club"]}
+]}
