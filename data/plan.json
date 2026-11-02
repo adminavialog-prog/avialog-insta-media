@@ -68,7 +68,7 @@
     {
       "date": "2026-11-02",
       "sujet": "Le Part-ML expliqué en 5 slides",
-      "fait": false
+      "fait": true
     },
     {
       "date": "2026-11-03",
@@ -235,6 +235,30 @@
     {
       "date": "2026-11-01",
       "regle": "Observation à confirmer (pas une règle) : le carrousel Produit du 30/10 est le plus faible du feed (portée 16, 30 vues à J+1,5 contre 52 vues pour le Savoir du 29/10 au même âge). Revoir à J+7 avant d'en tirer une règle."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "8 publications sur 30 jours dont 6 mesurées (Reel du 01/11 publié mais pas encore remonté ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post). Échantillon encore petit."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Confirmé (3e relevé) : le Reel reste le seul format qui sort de la base d'abonnés (portée 138 contre 24 au mieux pour le feed, environ 6x). À vérifier demain avec le Reel du 01/11."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Confirmé : carrousels 40 à 65 vues contre 28 pour le post question simple (environ 2x). Appliqué aujourd'hui : carrousel 7 slides, question fermée en dernière slide."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Le carrousel Coulisses du 28/10 reste le meilleur du feed (portée 24, 65 vues) ; le Produit du 30/10 reste le plus faible (portée 19, 40 vues à J+2,5 contre 52 pour le Savoir du 29/10 au même âge). Tendance à reconfirmer : le contenu humain/savoir passe mieux que le contenu produit."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Pas d'effet créneau visible : 10:00 (53, 65, 40 vues) et 18:00 (53 vues pour le carrousel) donnent des résultats proches. On garde le calendrier."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed mesurés."
     }
   ],
   "reels_grand_public_faits": [
