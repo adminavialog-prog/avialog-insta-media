@@ -1,0 +1,48 @@
+{
+"slides": [
+{
+"eyebrow": "À TOI",
+"title": "Givrage carbu : tu mets le *réchauffage* quand ?",
+"body": "Même par temps doux, ton carburateur peut givrer. Les repères de l'EASA, puis à toi de répondre."
+},
+{
+"eyebrow": "PAS QU'EN HIVER",
+"stat": "+25 °C",
+"stat_label": "Givrage sérieux mesuré en puissance de descente, avec seulement 30 % d'humidité",
+"title": "Le givre carbu n'a pas de *saison*",
+"body": "Source : essais en vol cités par l'EASA (EGAST GA5)."
+},
+{
+"eyebrow": "LES MOMENTS CLÉS",
+"title": "Ce que dit le *guide EASA*",
+"items": [
+{
+"k": "Avant la descente",
+"v": "Réchauffage avant de réduire la puissance"
+},
+{
+"k": "En croisière",
+"v": "Un contrôle au moins toutes les 10 minutes"
+},
+{
+"k": "Avant le décollage",
+"v": "15 s chaud, puis froid, juste avant"
+},
+{
+"k": "Au décollage",
+"v": "Jamais, sauf si ton manuel l'autorise"
+}
+]
+},
+{
+"eyebrow": "À TOI",
+"title": "Et toi, tu le tires *quand* ?",
+"body": "Ton manuel de vol reste la référence pour ton avion.",
+"choices": [
+"Avant chaque réduction de puissance",
+"Quand les tours baissent",
+"Selon la météo du jour"
+]
+}
+]
+}
