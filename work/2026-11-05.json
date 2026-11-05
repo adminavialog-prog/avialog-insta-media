@@ -1,0 +1,81 @@
+{
+"slides": [
+{
+"eyebrow": "SAVOIR DU MÉCANO",
+"title": "Papiers de bord : tu as *tout* ?",
+"body": "La règle européenne pour l'aviation légère (Part-NCO, NCO.GEN.135) tient en 13 lignes. Voici ce qu'elle dit vraiment."
+},
+{
+"eyebrow": "LES PAPIERS DE L'AVION",
+"title": "Deux *originaux* obligatoires",
+"items": [
+{
+"k": "Originaux",
+"v": "Certificat d'immatriculation et certificat de navigabilité (CDN)"
+},
+{
+"k": "Assurance",
+"v": "Attestation responsabilité civile, en copie possible"
+},
+{
+"k": "Si applicable",
+"v": "Certificat acoustique et licence de station radio"
+}
+]
+},
+{
+"eyebrow": "LES PAPIERS DU VOL",
+"title": "Ce qui sert *en vol*",
+"items": [
+{
+"k": "Manuel de vol",
+"v": "Le manuel de vol de l'avion, ou équivalent"
+},
+{
+"k": "Carnet de route",
+"v": "Le carnet de route de l'avion, ou équivalent"
+},
+{
+"k": "Navigation",
+"v": "Cartes à jour, y compris pour tes déroutements"
+},
+{
+"k": "Interception",
+"v": "Procédures et signaux visuels"
+}
+]
+},
+{
+"eyebrow": "VOL LOCAL",
+"title": "Tu décolles et tu *reviens* au même terrain ?",
+"body": "Immatriculation, CDN, certificat acoustique, approbations, licence radio, assurance et carnet de route peuvent rester à l'aérodrome. Le manuel de vol, lui, reste à bord."
+},
+{
+"eyebrow": "ET TOI, PILOTE",
+"title": "Dans ta *poche*",
+"items": [
+{
+"k": "Licence",
+"v": "Valide, toujours sur toi en vol"
+},
+{
+"k": "Certificat médical",
+"v": "Valide, toujours sur toi en vol"
+},
+{
+"k": "Pièce d'identité",
+"v": "Un document avec photo"
+}
+]
+},
+{
+"eyebrow": "À TOI",
+"title": "Ton dernier vol, tout était *à bord* ?",
+"choices": [
+"Oui, je vérifie avant chaque vol",
+"Je fais confiance au club",
+"Pas sûr, je vais regarder"
+]
+}
+]
+}

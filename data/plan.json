@@ -83,8 +83,9 @@
   },
   {
    "date": "2026-11-05",
-   "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
-   "fait": false
+   "sujet": "Les documents qui doivent être à bord",
+   "fait": true,
+   "note": "avancé au jeudi 05/11 (Savoir du mécano) à la place du coût d'une heure de vol, peu vérifiable et hors pilier"
   },
   {
    "date": "2026-11-06",
@@ -93,8 +94,9 @@
   },
   {
    "date": "2026-11-09",
-   "sujet": "Les documents qui doivent être à bord",
-   "fait": false
+   "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
+   "fait": false,
+   "note": "limite de consommation : seule la SI 1427B ancienne (formule) a pu être lue au 05/11 ; renvoyer au manuel du motoriste si la SI 1427C n'est pas vérifiable"
   },
   {
    "date": "2026-11-10",
@@ -108,8 +110,9 @@
   },
   {
    "date": "2026-11-12",
-   "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
-   "fait": false
+   "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
+   "fait": false,
+   "note": "décalé au 12/11 (post chiffre) : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général"
   },
   {
    "date": "2026-11-13",
@@ -284,6 +287,26 @@
   {
    "date": "2026-11-03",
    "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 7 posts du feed et 1 seul enregistrement au total (Reel du 24/10)."
+  },
+  {
+   "date": "2026-11-05",
+   "regle": "9 publications mesurées sur 30 jours (2 Reels, 6 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 05/11, 0 follow attribué à un post)."
+  },
+  {
+   "date": "2026-11-05",
+   "regle": "Confirmé (2 Reels) : le Reel est le seul format qui sort de la base d'abonnés. Reel du 01/11 : portée 121, 141 vues ; Reel du 24/10 : 138. Meilleur post du feed : 24. Environ 5x."
+  },
+  {
+   "date": "2026-11-05",
+   "regle": "Nouveau : les deux derniers carrousels sont les plus faibles du feed à âge égal : Part-ML du 02/11 (7 slides, portée 11, 26 vues à J+3) et givrage du 03/11 (4 slides, portée 10, 21 vues à J+2), contre 17 à 24 de portée et 45 à 65 vues pour ceux de la semaine 44. Cause non identifiée (sujet réglementaire plus technique ou baisse de diffusion) : à surveiller, pas encore une règle."
+  },
+  {
+   "date": "2026-11-05",
+   "regle": "Rétention Reel stable et faible : view rate 3 s 26,4 % et 4,4 s de visionnage moyen pour le Reel du 01/11 (25,7 % et 4,2 s pour le 24/10). L'accroche en image 0 n'a pas changé la donne : tester au prochain Reel un premier plan de moins de 2 s avec mouvement."
+  },
+  {
+   "date": "2026-11-05",
+   "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 8 posts du feed. Appliqué aujourd'hui : sujet pratique et vérifiable (checklist des papiers de bord) plutôt qu'un sujet de coût non sourçable, pour viser l'enregistrement."
   }
  ],
  "reels_grand_public_faits": [
