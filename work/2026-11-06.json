@@ -1,0 +1,17 @@
+{
+"slides": [
+{"eyebrow": "PRODUIT", "title": "Un avion, *quatre* acteurs. Une seule info.", "body": "Pilote, atelier Part-CAO, aéroclub, CAMO : tout le monde regarde la même chose, en temps réel."},
+{"eyebrow": "CE QU'ON VOIT À L'ATELIER", "title": "Chacun a *sa* version de l'avion", "items": [
+ {"k": "Pilote", "v": "Le défaut qu'il a constaté en vol"},
+ {"k": "Atelier Part-CAO", "v": "Les travaux en cours et à venir"},
+ {"k": "Aéroclub", "v": "Quel avion vole, lequel reste au hangar"},
+ {"k": "CAMO", "v": "La navigabilité et les échéances"}]},
+{"eyebrow": "AVEC AVIALOG", "title": "Saisi *une fois*, à jour pour tous", "body": "Une info entrée par l'un est visible tout de suite par ceux qui en ont besoin. Plus de ressaisie, plus de coup de fil pour savoir où en est l'avion."},
+{"eyebrow": "UNE OFFRE PAR RÔLE", "title": "Chacun son *accès*", "items": [
+ {"k": "Pilote", "v": "4,99 € par mois"},
+ {"k": "Aéroclub", "v": "De 49 à 129 € par mois"},
+ {"k": "Atelier Part-145", "v": "249 € par mois"},
+ {"k": "CAMO", "v": "299 € par mois"}]},
+{"eyebrow": "À TOI", "title": "Chez toi, qui sait *en premier* qu'un avion est indispo ?", "choices": ["Le pilote", "L'atelier", "Le club"]}
+]
+}

@@ -89,8 +89,9 @@
   },
   {
    "date": "2026-11-06",
-   "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
-   "fait": false
+   "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme",
+   "fait": true,
+   "note": "avancé au 06/11 à la place du planning aéroclub"
   },
   {
    "date": "2026-11-09",
@@ -141,8 +142,9 @@
   },
   {
    "date": "2026-11-20",
-   "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme",
-   "fait": false
+   "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
+   "fait": false,
+   "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer"
   }
  ],
  "reels_grand_public_idees": [
@@ -307,6 +309,30 @@
   {
    "date": "2026-11-05",
    "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 8 posts du feed. Appliqué aujourd'hui : sujet pratique et vérifiable (checklist des papiers de bord) plutôt qu'un sujet de coût non sourçable, pour viser l'enregistrement."
+  },
+  {
+   "date": "2026-11-06",
+   "regle": "10 publications mesurées sur 30 jours (2 Reels, 7 carrousels, 1 post simple ; carrousel du 05/11 et stories pas encore remontés). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 06/11, 0 follow attribué à un post)."
+  },
+  {
+   "date": "2026-11-06",
+   "regle": "Confirmé : le Coulisses du 28/10 creuse l'écart et devient nettement le meilleur post du feed à J+9 : portée 29, 87 vues, 11 interactions et le 1er partage du feed, contre 21 de portée et 50 à 54 vues pour les savoirs et le produit. L'histoire des fondateurs mécanos est le contenu feed qui circule le mieux."
+  },
+  {
+   "date": "2026-11-06",
+   "regle": "Infirmé : le Produit du 30/10 n'est plus le plus faible à J+7 (portée 21, 50 vues, comme les savoirs du 26/10 et 29/10 : 21 de portée, 53-54 vues). Le pilier produit n'est pas pénalisé en soi ; c'est l'angle humain qui fait la différence."
+  },
+  {
+   "date": "2026-11-06",
+   "regle": "Confirmé : les carrousels réglementaires de la semaine 45 restent les plus faibles (Part-ML 02/11 : portée 11, 30 vues ; givrage 03/11 : portée 13, 29 vues) contre 21 à 29 de portée pour la semaine 44. Hypothèse : sujets trop techniques ; préférer des sujets concrets du quotidien pilote."
+  },
+  {
+   "date": "2026-11-06",
+   "regle": "Reel toujours seul à sortir de la base (121 et 138 de portée, environ 4 à 5x le meilleur post du feed). 0 enregistrement et 0 commentaire sur le feed : seul le Reel du 24/10 a été enregistré une fois."
+  },
+  {
+   "date": "2026-11-06",
+   "regle": "Appliqué aujourd'hui : post Produit raconté avec l'angle « ce qu'on voit à l'atelier » (ton coulisses), plutôt qu'une liste de fonctions."
   }
  ],
  "reels_grand_public_faits": [
