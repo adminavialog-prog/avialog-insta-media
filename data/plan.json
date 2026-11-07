@@ -77,11 +77,6 @@
    "note": "format adapté : carrousel 4 slides au lieu du post simple (apprentissage du 03/11)"
   },
   {
-   "date": "2026-11-04",
-   "sujet": "Une journée type à l'atelier",
-   "fait": false
-  },
-  {
    "date": "2026-11-05",
    "sujet": "Les documents qui doivent être à bord",
    "fait": true,
@@ -102,12 +97,20 @@
   {
    "date": "2026-11-10",
    "sujet": "Quiz : qui signe l'APRS ?",
-   "fait": false
+   "fait": true,
+   "note": "avancé au samedi 07/11 en story quiz (pilier Conversation)"
+  },
+  {
+   "date": "2026-11-10",
+   "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?",
+   "fait": false,
+   "note": "avancé au mardi 10/11 (Conversation, carrousel court) : sujet concret du quotidien pilote"
   },
   {
    "date": "2026-11-11",
-   "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
-   "fait": false
+   "sujet": "Une journée type à l'atelier",
+   "fait": false,
+   "note": "replanifié au mercredi 11/11 (non fait le 04/11) : angle coulisses humain, le format feed le plus performant"
   },
   {
    "date": "2026-11-12",
@@ -126,11 +129,6 @@
    "fait": false
   },
   {
-   "date": "2026-11-17",
-   "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?",
-   "fait": false
-  },
-  {
    "date": "2026-11-18",
    "sujet": "Les coulisses d'une mise à jour d'Avialog",
    "fait": false
@@ -145,6 +143,12 @@
    "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
    "fait": false,
    "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer"
+  },
+  {
+   "date": "2026-11-25",
+   "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
+   "fait": false,
+   "note": "repoussé : publier uniquement avec un retour réel et autorisé, sinon basculer sur Coulisses"
   }
  ],
  "reels_grand_public_idees": [
@@ -333,6 +337,26 @@
   {
    "date": "2026-11-06",
    "regle": "Appliqué aujourd'hui : post Produit raconté avec l'angle « ce qu'on voit à l'atelier » (ton coulisses), plutôt qu'une liste de fonctions."
+  },
+  {
+   "date": "2026-11-07",
+   "regle": "11 publications mesurées sur 30 jours (2 Reels, 8 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 07/11, 0 follow attribué à un post)."
+  },
+  {
+   "date": "2026-11-07",
+   "regle": "Confirmé : le Coulisses du 28/10 (fondateurs mécanos) reste nettement le meilleur post du feed et continue de progresser : portée 32, 96 vues, 1 partage, contre 22 de portée et 51 à 56 vues au mieux pour les autres carrousels."
+  },
+  {
+   "date": "2026-11-07",
+   "regle": "Confirmé : les carrousels techniques/réglementaires restent sous la moyenne à âge égal (Part-ML 02/11 : portée 13, 32 vues ; givrage 03/11 : 15, 36 vues ; papiers de bord 05/11 : 11, 31 vues à J+1,5). Les sujets concrets avec angle humain passent mieux. Appliqué : « Une journée type à l'atelier » replanifié au 11/11, METAR (quotidien pilote) avancé au 10/11."
+  },
+  {
+   "date": "2026-11-07",
+   "regle": "Nouveau, à confirmer : le Produit du 06/11 démarre faiblement (portée 5, 11 vues à J+0,9), en ligne avec le démarrage lent habituel des carrousels ; jugé à J+7."
+  },
+  {
+   "date": "2026-11-07",
+   "regle": "Reel toujours seul à sortir de la base (123 et 138 de portée, environ 4x le meilleur post du feed). Rétention stable (view rate 3 s 26,8 % et 25,7 %). Prochain Reel le 15/11 (semaine ISO 46 paire) : premier plan de moins de 2 s avec mouvement."
   }
  ],
  "reels_grand_public_faits": [
