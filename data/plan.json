@@ -1,369 +1,389 @@
 {
- "timezone": "Europe/Paris",
- "metricool_brand_id": "7626989",
- "calendrier": {
-  "lundi": {
-   "heure": "10:00",
-   "pilier": "Savoir du mécano",
-   "format": "carrousel 5 à 7 slides"
-  },
-  "mardi": {
-   "heure": "18:00",
-   "pilier": "Conversation",
-   "format": "post question A/B/C"
-  },
-  "mercredi": {
-   "heure": "10:00",
-   "pilier": "Coulisses ou Preuve (alterner)",
-   "format": "carrousel 3 à 4 slides"
-  },
-  "jeudi": {
-   "heure": "18:00",
-   "pilier": "Savoir du mécano",
-   "format": "carrousel ou post chiffre"
-  },
-  "vendredi": {
-   "heure": "10:00",
-   "pilier": "Produit",
-   "format": "carrousel cas d'usage"
-  },
-  "samedi": {
-   "heure": "10:00",
-   "pilier": "Conversation",
-   "format": "story quiz (image 1080x1920)"
-  },
-  "dimanche": {
-   "heure": "18:00",
-   "pilier": "Coulisses ou Reel grand public",
-   "format": "story, ou Reel grand public une semaine sur deux"
-  }
- },
- "banque_sujets": [
-  {
-   "date": "2026-10-26",
-   "sujet": "Prévol d'hiver : les points que les mécanos voient oubliés par temps froid",
-   "fait": true
-  },
-  {
-   "date": "2026-10-27",
-   "sujet": "Ton carnet de route : papier, appli ou tableur ?",
-   "fait": true,
-   "note": "traité côté pilote : carnet de vol (relevé FCL.050) plutôt que carnet de route de l'avion"
-  },
-  {
-   "date": "2026-10-28",
-   "sujet": "Pourquoi deux mécanos Part-66 ont créé Avialog",
-   "fait": true
-  },
-  {
-   "date": "2026-10-29",
-   "sujet": "Visite 50 h, 100 h, annuelle : qui fait quoi",
-   "fait": true
-  },
-  {
-   "date": "2026-10-30",
-   "sujet": "Un pilote signale un défaut, l'atelier le voit en temps réel",
-   "fait": true
-  },
-  {
-   "date": "2026-11-02",
-   "sujet": "Le Part-ML expliqué en 5 slides",
-   "fait": true
-  },
-  {
-   "date": "2026-11-03",
-   "sujet": "Givrage carburateur : tu mets le réchauffage quand ?",
-   "fait": true,
-   "note": "format adapté : carrousel 4 slides au lieu du post simple (apprentissage du 03/11)"
-  },
-  {
-   "date": "2026-11-05",
-   "sujet": "Les documents qui doivent être à bord",
-   "fait": true,
-   "note": "avancé au jeudi 05/11 (Savoir du mécano) à la place du coût d'une heure de vol, peu vérifiable et hors pilier"
-  },
-  {
-   "date": "2026-11-06",
-   "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme",
-   "fait": true,
-   "note": "avancé au 06/11 à la place du planning aéroclub"
-  },
-  {
-   "date": "2026-11-09",
-   "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
-   "fait": false,
-   "note": "limite de consommation : seule la SI 1427B ancienne (formule) a pu être lue au 05/11 ; renvoyer au manuel du motoriste si la SI 1427C n'est pas vérifiable"
-  },
-  {
-   "date": "2026-11-10",
-   "sujet": "Quiz : qui signe l'APRS ?",
-   "fait": true,
-   "note": "avancé au samedi 07/11 en story quiz (pilier Conversation)"
-  },
-  {
-   "date": "2026-11-10",
-   "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?",
-   "fait": false,
-   "note": "avancé au mardi 10/11 (Conversation, carrousel court) : sujet concret du quotidien pilote"
-  },
-  {
-   "date": "2026-11-11",
-   "sujet": "Une journée type à l'atelier",
-   "fait": false,
-   "note": "replanifié au mercredi 11/11 (non fait le 04/11) : angle coulisses humain, le format feed le plus performant"
-  },
-  {
-   "date": "2026-11-12",
-   "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
-   "fait": false,
-   "note": "décalé au 12/11 (post chiffre) : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général"
-  },
-  {
-   "date": "2026-11-13",
-   "sujet": "L'ordre de travail suivi de l'atelier jusqu'au pilote",
-   "fait": false
-  },
-  {
-   "date": "2026-11-16",
-   "sujet": "Potentiels et butées : comprendre l'état de ton avion",
-   "fait": false
-  },
-  {
-   "date": "2026-11-18",
-   "sujet": "Les coulisses d'une mise à jour d'Avialog",
-   "fait": false
-  },
-  {
-   "date": "2026-11-19",
-   "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler",
-   "fait": false
-  },
-  {
-   "date": "2026-11-20",
-   "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
-   "fait": false,
-   "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer"
-  },
-  {
-   "date": "2026-11-25",
-   "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
-   "fait": false,
-   "note": "repoussé : publier uniquement avec un retour réel et autorisé, sinon basculer sur Coulisses"
-  }
- ],
- "reels_grand_public_idees": [
-  "Combien coûte vraiment un petit avion (achat, entretien, heure de vol)",
-  "Ce qu'il y a dans le moteur d'un avion de tourisme",
-  "Peut-on passer son brevet de pilote à 15 ans ?",
-  "Le métier de mécanicien avion en 20 secondes"
- ],
- "apprentissages": [
-  {
-   "date": "2026-10-25",
-   "regle": "Données insuffisantes : aucune publication mesurée dans Metricool sur 30 jours (Reel du 24/10 pas encore remonté), 32 abonnés au 23/10. Aucune tendance tirée ; on suit le calendrier prévu."
-  },
-  {
-   "date": "2026-10-26",
-   "regle": "Données insuffisantes : 1 seule publication mesurée (Reel du 24/10 : portée 127, 160 vues, 10 interactions, 1 enregistrement, 0 partage, 0 commentaire, 26,6 % de vues >3 s, 4,3 s de visionnage moyen). La story du 25/10 ne remonte pas dans les métriques posts/reels. 32 abonnés, pas d'évolution mesurable. Aucune tendance tirée."
-  },
-  {
-   "date": "2026-10-26",
-   "regle": "Observation à confirmer (pas une règle) : sur le Reel du 24/10, seuls 26,6 % des vues dépassent 3 s ; tester une accroche visuelle plus forte dès la première seconde au prochain Reel."
-  },
-  {
-   "date": "2026-10-27",
-   "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 134, 168 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+1 : portée 4, 12 vues, 1 interaction). Abonnés stables à 32, gains/pertes non remontés. Aucune tendance tirée, calendrier suivi."
-  },
-  {
-   "date": "2026-10-27",
-   "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 ne touche presque que les abonnés à J+1 (portée 4) alors que le Reel a atteint 134 personnes ; comparer à J+7 avant de conclure sur le format."
-  },
-  {
-   "date": "2026-10-28",
-   "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 135, 171 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+2 : portée 17, 43 vues, 4 interactions, 0 enregistrement). Post question du 27/10 pas encore remonté. Abonnés stables à 32 (dernier relevé 26/10). Aucune tendance tirée, calendrier suivi."
-  },
-  {
-   "date": "2026-10-28",
-   "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 passe de 4 à 17 de portée entre J+1 et J+2 ; les carrousels semblent démarrer lentement, juger leur performance à J+7 plutôt qu'à J+1."
-  },
-  {
-   "date": "2026-10-29",
-   "regle": "Données insuffisantes : 3 publications mesurées sur 30 jours (Reel du 24/10 : portée 137, 173 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+3 : portée 20, 49 vues, 8 interactions, 0 enregistrement ; post question du 27/10 à J+2 : portée 7, 14 vues, 2 interactions, 0 commentaire). Carrousel du 28/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu au 29/10). Aucune tendance tirée, calendrier suivi."
-  },
-  {
-   "date": "2026-10-29",
-   "regle": "Observation à confirmer (pas une règle) : le post question du 27/10 n'a obtenu aucun commentaire (portée 7) ; avec 32 abonnés, le levier « conversation » dépend d'abord de la portée. À revoir quand 5 publications seront mesurées."
-  },
-  {
-   "date": "2026-10-30",
-   "regle": "Données insuffisantes : 4 publications mesurées sur 30 jours (Reel du 24/10 : portée 138, 176 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+4 : portée 21, 53 vues, 9 interactions ; post question du 27/10 à J+3 : portée 13, 25 vues, 5 interactions, 0 commentaire ; carrousel coulisses du 28/10 à J+2 : portée 20, 59 vues, 8 interactions). 0 enregistrement, 0 partage, 0 commentaire sur les posts du feed. Carrousel du 29/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu). Aucune tendance tirée, calendrier suivi."
-  },
-  {
-   "date": "2026-10-30",
-   "regle": "Observation à confirmer (pas une règle) : le carrousel coulisses du 28/10 atteint à J+2 la même portée (20) que le carrousel prévol du 26/10 à J+4 (21), avec plus de vues (59 contre 53). À comparer à J+7 ; le Reel reste seul à dépasser la base des 32 abonnés."
-  },
-  {
-   "date": "2026-10-31",
-   "regle": "6 publications mesurées sur 30 jours (1 Reel, 4 carrousels, 1 post simple). Abonnés stables à 32 (0 gagné, 0 perdu, 0 follow attribué à un post). Premières règles tirées, échantillon encore très petit : à reconfirmer chaque semaine."
-  },
-  {
-   "date": "2026-10-31",
-   "regle": "Le Reel est le seul format qui sort de la base d'abonnés : portée 138 contre 22 au mieux pour un post du feed (environ 6x). Priorité au Reel grand public du dimanche 1er novembre ; envisager un 2e Reel par semaine si le prochain confirme."
-  },
-  {
-   "date": "2026-10-31",
-   "regle": "Les carrousels font environ 2x plus de vues que le post question simple : 50 à 61 vues (17 à 22 de portée) contre 26 vues (13 de portée) pour le post A/B/C du 27/10. Garder le carrousel comme format par défaut du feed ; le mardi « post question » peut passer en carrousel court avec question en dernière slide."
-  },
-  {
-   "date": "2026-10-31",
-   "regle": "0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed malgré une question A/B/C dans chaque légende : à 32 abonnés, la question fermée ne déclenche pas de réponse. Le levier n'est pas la question mais la portée (Reels)."
-  },
-  {
-   "date": "2026-10-31",
-   "regle": "Observation à confirmer (pas une règle) : le carrousel Savoir du 29/10 (18:00) atteint 50 vues à J+1,5, plus vite que le prévol du 26/10 (12 vues à J+1, 10:00). Comparer créneaux 10:00 et 18:00 sur les 2 prochaines semaines."
-  },
-  {
-   "date": "2026-11-01",
-   "regle": "7 publications sur 30 jours dont 6 mesurées (1 Reel, 4 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post). Échantillon encore petit."
-  },
-  {
-   "date": "2026-11-01",
-   "regle": "Confirmé : le Reel reste le seul format qui sort de la base d'abonnés (portée 138 contre 23 au mieux pour le feed, environ 6x). Appliqué aujourd'hui : Reel grand public du dimanche maintenu."
-  },
-  {
-   "date": "2026-11-01",
-   "regle": "Rétention du Reel faible : view rate 3 s de 25,7 % et 4,2 s de visionnage moyen sur 20 s. Appliqué aujourd'hui : accroche et visuel affichés dès l'image 0 (plus de fondu d'entrée), question posée dans le premier plan."
-  },
-  {
-   "date": "2026-11-01",
-   "regle": "Confirmé : les carrousels font environ 2x plus de vues que le post question simple (52 à 64 vues contre 27). Le carrousel coulisses du 28/10 est désormais le meilleur post du feed (portée 23, 64 vues)."
-  },
-  {
-   "date": "2026-11-01",
-   "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed : la question fermée seule ne déclenche rien à 32 abonnés."
-  },
-  {
-   "date": "2026-11-01",
-   "regle": "Observation à confirmer (pas une règle) : le carrousel Produit du 30/10 est le plus faible du feed (portée 16, 30 vues à J+1,5 contre 52 vues pour le Savoir du 29/10 au même âge). Revoir à J+7 avant d'en tirer une règle."
-  },
-  {
-   "date": "2026-11-02",
-   "regle": "8 publications sur 30 jours dont 6 mesurées (Reel du 01/11 publié mais pas encore remonté ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post). Échantillon encore petit."
-  },
-  {
-   "date": "2026-11-02",
-   "regle": "Confirmé (3e relevé) : le Reel reste le seul format qui sort de la base d'abonnés (portée 138 contre 24 au mieux pour le feed, environ 6x). À vérifier demain avec le Reel du 01/11."
-  },
-  {
-   "date": "2026-11-02",
-   "regle": "Confirmé : carrousels 40 à 65 vues contre 28 pour le post question simple (environ 2x). Appliqué aujourd'hui : carrousel 7 slides, question fermée en dernière slide."
-  },
-  {
-   "date": "2026-11-02",
-   "regle": "Le carrousel Coulisses du 28/10 reste le meilleur du feed (portée 24, 65 vues) ; le Produit du 30/10 reste le plus faible (portée 19, 40 vues à J+2,5 contre 52 pour le Savoir du 29/10 au même âge). Tendance à reconfirmer : le contenu humain/savoir passe mieux que le contenu produit."
-  },
-  {
-   "date": "2026-11-02",
-   "regle": "Pas d'effet créneau visible : 10:00 (53, 65, 40 vues) et 18:00 (53 vues pour le carrousel) donnent des résultats proches. On garde le calendrier."
-  },
-  {
-   "date": "2026-11-02",
-   "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed mesurés."
-  },
-  {
-   "date": "2026-11-03",
-   "regle": "9 publications sur 30 jours dont 8 mesurées (2 Reels, 5 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post)."
-  },
-  {
-   "date": "2026-11-03",
-   "regle": "Confirmé avec 2 Reels : le Reel est le seul format qui sort de la base d'abonnés. Reel du 01/11 : portée 116 et 137 vues à J+1,5 ; Reel du 24/10 : 138. Meilleur post du feed : 24. Environ 5x."
-  },
-  {
-   "date": "2026-11-03",
-   "regle": "Rétention Reel légèrement meilleure avec l'accroche visible dès l'image 0 : view rate 3 s 28,2 % (contre 25,7 %), visionnage moyen 4,5 s (contre 4,2 s). Progrès faible : garder l'accroche en image 0 et raccourcir le premier plan."
-  },
-  {
-   "date": "2026-11-03",
-   "regle": "Confirmé : carrousels 45 à 65 vues contre 28 pour le post question simple. Appliqué aujourd'hui : le mardi « post question » passe en carrousel court de 4 slides avec la question A/B/C en dernière slide."
-  },
-  {
-   "date": "2026-11-03",
-   "regle": "Le Produit du 30/10 reste le plus faible des carrousels à âge égal (45 vues à J+4 contre 53 pour le Savoir du 29/10 et 65 pour le Coulisses du 28/10). Contenu savoir/humain > produit, à reconfirmer."
-  },
-  {
-   "date": "2026-11-03",
-   "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 7 posts du feed et 1 seul enregistrement au total (Reel du 24/10)."
-  },
-  {
-   "date": "2026-11-05",
-   "regle": "9 publications mesurées sur 30 jours (2 Reels, 6 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 05/11, 0 follow attribué à un post)."
-  },
-  {
-   "date": "2026-11-05",
-   "regle": "Confirmé (2 Reels) : le Reel est le seul format qui sort de la base d'abonnés. Reel du 01/11 : portée 121, 141 vues ; Reel du 24/10 : 138. Meilleur post du feed : 24. Environ 5x."
-  },
-  {
-   "date": "2026-11-05",
-   "regle": "Nouveau : les deux derniers carrousels sont les plus faibles du feed à âge égal : Part-ML du 02/11 (7 slides, portée 11, 26 vues à J+3) et givrage du 03/11 (4 slides, portée 10, 21 vues à J+2), contre 17 à 24 de portée et 45 à 65 vues pour ceux de la semaine 44. Cause non identifiée (sujet réglementaire plus technique ou baisse de diffusion) : à surveiller, pas encore une règle."
-  },
-  {
-   "date": "2026-11-05",
-   "regle": "Rétention Reel stable et faible : view rate 3 s 26,4 % et 4,4 s de visionnage moyen pour le Reel du 01/11 (25,7 % et 4,2 s pour le 24/10). L'accroche en image 0 n'a pas changé la donne : tester au prochain Reel un premier plan de moins de 2 s avec mouvement."
-  },
-  {
-   "date": "2026-11-05",
-   "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 8 posts du feed. Appliqué aujourd'hui : sujet pratique et vérifiable (checklist des papiers de bord) plutôt qu'un sujet de coût non sourçable, pour viser l'enregistrement."
-  },
-  {
-   "date": "2026-11-06",
-   "regle": "10 publications mesurées sur 30 jours (2 Reels, 7 carrousels, 1 post simple ; carrousel du 05/11 et stories pas encore remontés). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 06/11, 0 follow attribué à un post)."
-  },
-  {
-   "date": "2026-11-06",
-   "regle": "Confirmé : le Coulisses du 28/10 creuse l'écart et devient nettement le meilleur post du feed à J+9 : portée 29, 87 vues, 11 interactions et le 1er partage du feed, contre 21 de portée et 50 à 54 vues pour les savoirs et le produit. L'histoire des fondateurs mécanos est le contenu feed qui circule le mieux."
-  },
-  {
-   "date": "2026-11-06",
-   "regle": "Infirmé : le Produit du 30/10 n'est plus le plus faible à J+7 (portée 21, 50 vues, comme les savoirs du 26/10 et 29/10 : 21 de portée, 53-54 vues). Le pilier produit n'est pas pénalisé en soi ; c'est l'angle humain qui fait la différence."
-  },
-  {
-   "date": "2026-11-06",
-   "regle": "Confirmé : les carrousels réglementaires de la semaine 45 restent les plus faibles (Part-ML 02/11 : portée 11, 30 vues ; givrage 03/11 : portée 13, 29 vues) contre 21 à 29 de portée pour la semaine 44. Hypothèse : sujets trop techniques ; préférer des sujets concrets du quotidien pilote."
-  },
-  {
-   "date": "2026-11-06",
-   "regle": "Reel toujours seul à sortir de la base (121 et 138 de portée, environ 4 à 5x le meilleur post du feed). 0 enregistrement et 0 commentaire sur le feed : seul le Reel du 24/10 a été enregistré une fois."
-  },
-  {
-   "date": "2026-11-06",
-   "regle": "Appliqué aujourd'hui : post Produit raconté avec l'angle « ce qu'on voit à l'atelier » (ton coulisses), plutôt qu'une liste de fonctions."
-  },
-  {
-   "date": "2026-11-07",
-   "regle": "11 publications mesurées sur 30 jours (2 Reels, 8 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 07/11, 0 follow attribué à un post)."
-  },
-  {
-   "date": "2026-11-07",
-   "regle": "Confirmé : le Coulisses du 28/10 (fondateurs mécanos) reste nettement le meilleur post du feed et continue de progresser : portée 32, 96 vues, 1 partage, contre 22 de portée et 51 à 56 vues au mieux pour les autres carrousels."
-  },
-  {
-   "date": "2026-11-07",
-   "regle": "Confirmé : les carrousels techniques/réglementaires restent sous la moyenne à âge égal (Part-ML 02/11 : portée 13, 32 vues ; givrage 03/11 : 15, 36 vues ; papiers de bord 05/11 : 11, 31 vues à J+1,5). Les sujets concrets avec angle humain passent mieux. Appliqué : « Une journée type à l'atelier » replanifié au 11/11, METAR (quotidien pilote) avancé au 10/11."
-  },
-  {
-   "date": "2026-11-07",
-   "regle": "Nouveau, à confirmer : le Produit du 06/11 démarre faiblement (portée 5, 11 vues à J+0,9), en ligne avec le démarrage lent habituel des carrousels ; jugé à J+7."
-  },
-  {
-   "date": "2026-11-07",
-   "regle": "Reel toujours seul à sortir de la base (123 et 138 de portée, environ 4x le meilleur post du feed). Rétention stable (view rate 3 s 26,8 % et 25,7 %). Prochain Reel le 15/11 (semaine ISO 46 paire) : premier plan de moins de 2 s avec mouvement."
-  }
- ],
- "reels_grand_public_faits": [
-  {
-   "date": "2026-11-01",
-   "idee": "Pourquoi les petits avions sont-ils souvent blancs ?",
-   "media": "media/2026-11-01-reel-blancs.mp4"
-  }
- ]
+  "timezone": "Europe/Paris",
+  "metricool_brand_id": "7626989",
+  "calendrier": {
+    "lundi": {
+      "heure": "10:00",
+      "pilier": "Savoir du mécano",
+      "format": "carrousel 5 à 7 slides"
+    },
+    "mardi": {
+      "heure": "18:00",
+      "pilier": "Conversation",
+      "format": "post question A/B/C"
+    },
+    "mercredi": {
+      "heure": "10:00",
+      "pilier": "Coulisses ou Preuve (alterner)",
+      "format": "carrousel 3 à 4 slides"
+    },
+    "jeudi": {
+      "heure": "18:00",
+      "pilier": "Savoir du mécano",
+      "format": "carrousel ou post chiffre"
+    },
+    "vendredi": {
+      "heure": "10:00",
+      "pilier": "Produit",
+      "format": "carrousel cas d'usage"
+    },
+    "samedi": {
+      "heure": "10:00",
+      "pilier": "Conversation",
+      "format": "story quiz (image 1080x1920)"
+    },
+    "dimanche": {
+      "heure": "18:00",
+      "pilier": "Coulisses ou Reel grand public",
+      "format": "story, ou Reel grand public une semaine sur deux"
+    }
+  },
+  "banque_sujets": [
+    {
+      "date": "2026-10-26",
+      "sujet": "Prévol d'hiver : les points que les mécanos voient oubliés par temps froid",
+      "fait": true
+    },
+    {
+      "date": "2026-10-27",
+      "sujet": "Ton carnet de route : papier, appli ou tableur ?",
+      "fait": true,
+      "note": "traité côté pilote : carnet de vol (relevé FCL.050) plutôt que carnet de route de l'avion"
+    },
+    {
+      "date": "2026-10-28",
+      "sujet": "Pourquoi deux mécanos Part-66 ont créé Avialog",
+      "fait": true
+    },
+    {
+      "date": "2026-10-29",
+      "sujet": "Visite 50 h, 100 h, annuelle : qui fait quoi",
+      "fait": true
+    },
+    {
+      "date": "2026-10-30",
+      "sujet": "Un pilote signale un défaut, l'atelier le voit en temps réel",
+      "fait": true
+    },
+    {
+      "date": "2026-11-02",
+      "sujet": "Le Part-ML expliqué en 5 slides",
+      "fait": true
+    },
+    {
+      "date": "2026-11-03",
+      "sujet": "Givrage carburateur : tu mets le réchauffage quand ?",
+      "fait": true,
+      "note": "format adapté : carrousel 4 slides au lieu du post simple (apprentissage du 03/11)"
+    },
+    {
+      "date": "2026-11-05",
+      "sujet": "Les documents qui doivent être à bord",
+      "fait": true,
+      "note": "avancé au jeudi 05/11 (Savoir du mécano) à la place du coût d'une heure de vol, peu vérifiable et hors pilier"
+    },
+    {
+      "date": "2026-11-06",
+      "sujet": "Pilote, atelier, aéroclub, CAMO : une seule plateforme",
+      "fait": true,
+      "note": "avancé au 06/11 à la place du planning aéroclub"
+    },
+    {
+      "date": "2026-11-09",
+      "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
+      "fait": false,
+      "note": "limite de consommation : seule la SI 1427B ancienne (formule) a pu être lue au 05/11 ; renvoyer au manuel du motoriste si la SI 1427C n'est pas vérifiable ; annoncé par la story du 08/11 (« Demain, on ouvre le capot », 10:00) : garder ce sujet lundi"
+    },
+    {
+      "date": "2026-11-10",
+      "sujet": "Quiz : qui signe l'APRS ?",
+      "fait": true,
+      "note": "avancé au samedi 07/11 en story quiz (pilier Conversation)"
+    },
+    {
+      "date": "2026-11-10",
+      "sujet": "Ton METAR du matin : tu le lis en brut ou décodé ?",
+      "fait": false,
+      "note": "avancé au mardi 10/11 (Conversation, carrousel court) : sujet concret du quotidien pilote"
+    },
+    {
+      "date": "2026-11-11",
+      "sujet": "Une journée type à l'atelier",
+      "fait": false,
+      "note": "replanifié au mercredi 11/11 (non fait le 04/11) : angle coulisses humain, le format feed le plus performant"
+    },
+    {
+      "date": "2026-11-12",
+      "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
+      "fait": false,
+      "note": "décalé au 12/11 (post chiffre) : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général"
+    },
+    {
+      "date": "2026-11-13",
+      "sujet": "L'ordre de travail suivi de l'atelier jusqu'au pilote",
+      "fait": false
+    },
+    {
+      "date": "2026-11-16",
+      "sujet": "Potentiels et butées : comprendre l'état de ton avion",
+      "fait": false
+    },
+    {
+      "date": "2026-11-18",
+      "sujet": "Les coulisses d'une mise à jour d'Avialog",
+      "fait": false
+    },
+    {
+      "date": "2026-11-19",
+      "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler",
+      "fait": false
+    },
+    {
+      "date": "2026-11-20",
+      "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
+      "fait": false,
+      "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer"
+    },
+    {
+      "date": "2026-11-25",
+      "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
+      "fait": false,
+      "note": "repoussé : publier uniquement avec un retour réel et autorisé, sinon basculer sur Coulisses"
+    }
+  ],
+  "reels_grand_public_idees": [
+    "Combien coûte vraiment un petit avion (achat, entretien, heure de vol)",
+    "Ce qu'il y a dans le moteur d'un avion de tourisme",
+    "Peut-on passer son brevet de pilote à 15 ans ?",
+    "Le métier de mécanicien avion en 20 secondes"
+  ],
+  "apprentissages": [
+    {
+      "date": "2026-10-25",
+      "regle": "Données insuffisantes : aucune publication mesurée dans Metricool sur 30 jours (Reel du 24/10 pas encore remonté), 32 abonnés au 23/10. Aucune tendance tirée ; on suit le calendrier prévu."
+    },
+    {
+      "date": "2026-10-26",
+      "regle": "Données insuffisantes : 1 seule publication mesurée (Reel du 24/10 : portée 127, 160 vues, 10 interactions, 1 enregistrement, 0 partage, 0 commentaire, 26,6 % de vues >3 s, 4,3 s de visionnage moyen). La story du 25/10 ne remonte pas dans les métriques posts/reels. 32 abonnés, pas d'évolution mesurable. Aucune tendance tirée."
+    },
+    {
+      "date": "2026-10-26",
+      "regle": "Observation à confirmer (pas une règle) : sur le Reel du 24/10, seuls 26,6 % des vues dépassent 3 s ; tester une accroche visuelle plus forte dès la première seconde au prochain Reel."
+    },
+    {
+      "date": "2026-10-27",
+      "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 134, 168 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+1 : portée 4, 12 vues, 1 interaction). Abonnés stables à 32, gains/pertes non remontés. Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-27",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 ne touche presque que les abonnés à J+1 (portée 4) alors que le Reel a atteint 134 personnes ; comparer à J+7 avant de conclure sur le format."
+    },
+    {
+      "date": "2026-10-28",
+      "regle": "Données insuffisantes : 2 publications mesurées sur 30 jours (Reel du 24/10 : portée 135, 171 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+2 : portée 17, 43 vues, 4 interactions, 0 enregistrement). Post question du 27/10 pas encore remonté. Abonnés stables à 32 (dernier relevé 26/10). Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-28",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel du 26/10 passe de 4 à 17 de portée entre J+1 et J+2 ; les carrousels semblent démarrer lentement, juger leur performance à J+7 plutôt qu'à J+1."
+    },
+    {
+      "date": "2026-10-29",
+      "regle": "Données insuffisantes : 3 publications mesurées sur 30 jours (Reel du 24/10 : portée 137, 173 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+3 : portée 20, 49 vues, 8 interactions, 0 enregistrement ; post question du 27/10 à J+2 : portée 7, 14 vues, 2 interactions, 0 commentaire). Carrousel du 28/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu au 29/10). Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-29",
+      "regle": "Observation à confirmer (pas une règle) : le post question du 27/10 n'a obtenu aucun commentaire (portée 7) ; avec 32 abonnés, le levier « conversation » dépend d'abord de la portée. À revoir quand 5 publications seront mesurées."
+    },
+    {
+      "date": "2026-10-30",
+      "regle": "Données insuffisantes : 4 publications mesurées sur 30 jours (Reel du 24/10 : portée 138, 176 vues, 11 interactions, 1 enregistrement ; carrousel prévol du 26/10 à J+4 : portée 21, 53 vues, 9 interactions ; post question du 27/10 à J+3 : portée 13, 25 vues, 5 interactions, 0 commentaire ; carrousel coulisses du 28/10 à J+2 : portée 20, 59 vues, 8 interactions). 0 enregistrement, 0 partage, 0 commentaire sur les posts du feed. Carrousel du 29/10 pas encore remonté. Abonnés stables à 32 (0 gagné, 0 perdu). Aucune tendance tirée, calendrier suivi."
+    },
+    {
+      "date": "2026-10-30",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel coulisses du 28/10 atteint à J+2 la même portée (20) que le carrousel prévol du 26/10 à J+4 (21), avec plus de vues (59 contre 53). À comparer à J+7 ; le Reel reste seul à dépasser la base des 32 abonnés."
+    },
+    {
+      "date": "2026-10-31",
+      "regle": "6 publications mesurées sur 30 jours (1 Reel, 4 carrousels, 1 post simple). Abonnés stables à 32 (0 gagné, 0 perdu, 0 follow attribué à un post). Premières règles tirées, échantillon encore très petit : à reconfirmer chaque semaine."
+    },
+    {
+      "date": "2026-10-31",
+      "regle": "Le Reel est le seul format qui sort de la base d'abonnés : portée 138 contre 22 au mieux pour un post du feed (environ 6x). Priorité au Reel grand public du dimanche 1er novembre ; envisager un 2e Reel par semaine si le prochain confirme."
+    },
+    {
+      "date": "2026-10-31",
+      "regle": "Les carrousels font environ 2x plus de vues que le post question simple : 50 à 61 vues (17 à 22 de portée) contre 26 vues (13 de portée) pour le post A/B/C du 27/10. Garder le carrousel comme format par défaut du feed ; le mardi « post question » peut passer en carrousel court avec question en dernière slide."
+    },
+    {
+      "date": "2026-10-31",
+      "regle": "0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed malgré une question A/B/C dans chaque légende : à 32 abonnés, la question fermée ne déclenche pas de réponse. Le levier n'est pas la question mais la portée (Reels)."
+    },
+    {
+      "date": "2026-10-31",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel Savoir du 29/10 (18:00) atteint 50 vues à J+1,5, plus vite que le prévol du 26/10 (12 vues à J+1, 10:00). Comparer créneaux 10:00 et 18:00 sur les 2 prochaines semaines."
+    },
+    {
+      "date": "2026-11-01",
+      "regle": "7 publications sur 30 jours dont 6 mesurées (1 Reel, 4 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post). Échantillon encore petit."
+    },
+    {
+      "date": "2026-11-01",
+      "regle": "Confirmé : le Reel reste le seul format qui sort de la base d'abonnés (portée 138 contre 23 au mieux pour le feed, environ 6x). Appliqué aujourd'hui : Reel grand public du dimanche maintenu."
+    },
+    {
+      "date": "2026-11-01",
+      "regle": "Rétention du Reel faible : view rate 3 s de 25,7 % et 4,2 s de visionnage moyen sur 20 s. Appliqué aujourd'hui : accroche et visuel affichés dès l'image 0 (plus de fondu d'entrée), question posée dans le premier plan."
+    },
+    {
+      "date": "2026-11-01",
+      "regle": "Confirmé : les carrousels font environ 2x plus de vues que le post question simple (52 à 64 vues contre 27). Le carrousel coulisses du 28/10 est désormais le meilleur post du feed (portée 23, 64 vues)."
+    },
+    {
+      "date": "2026-11-01",
+      "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed : la question fermée seule ne déclenche rien à 32 abonnés."
+    },
+    {
+      "date": "2026-11-01",
+      "regle": "Observation à confirmer (pas une règle) : le carrousel Produit du 30/10 est le plus faible du feed (portée 16, 30 vues à J+1,5 contre 52 vues pour le Savoir du 29/10 au même âge). Revoir à J+7 avant d'en tirer une règle."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "8 publications sur 30 jours dont 6 mesurées (Reel du 01/11 publié mais pas encore remonté ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post). Échantillon encore petit."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Confirmé (3e relevé) : le Reel reste le seul format qui sort de la base d'abonnés (portée 138 contre 24 au mieux pour le feed, environ 6x). À vérifier demain avec le Reel du 01/11."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Confirmé : carrousels 40 à 65 vues contre 28 pour le post question simple (environ 2x). Appliqué aujourd'hui : carrousel 7 slides, question fermée en dernière slide."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Le carrousel Coulisses du 28/10 reste le meilleur du feed (portée 24, 65 vues) ; le Produit du 30/10 reste le plus faible (portée 19, 40 vues à J+2,5 contre 52 pour le Savoir du 29/10 au même âge). Tendance à reconfirmer : le contenu humain/savoir passe mieux que le contenu produit."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Pas d'effet créneau visible : 10:00 (53, 65, 40 vues) et 18:00 (53 vues pour le carrousel) donnent des résultats proches. On garde le calendrier."
+    },
+    {
+      "date": "2026-11-02",
+      "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 5 posts du feed mesurés."
+    },
+    {
+      "date": "2026-11-03",
+      "regle": "9 publications sur 30 jours dont 8 mesurées (2 Reels, 5 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-03",
+      "regle": "Confirmé avec 2 Reels : le Reel est le seul format qui sort de la base d'abonnés. Reel du 01/11 : portée 116 et 137 vues à J+1,5 ; Reel du 24/10 : 138. Meilleur post du feed : 24. Environ 5x."
+    },
+    {
+      "date": "2026-11-03",
+      "regle": "Rétention Reel légèrement meilleure avec l'accroche visible dès l'image 0 : view rate 3 s 28,2 % (contre 25,7 %), visionnage moyen 4,5 s (contre 4,2 s). Progrès faible : garder l'accroche en image 0 et raccourcir le premier plan."
+    },
+    {
+      "date": "2026-11-03",
+      "regle": "Confirmé : carrousels 45 à 65 vues contre 28 pour le post question simple. Appliqué aujourd'hui : le mardi « post question » passe en carrousel court de 4 slides avec la question A/B/C en dernière slide."
+    },
+    {
+      "date": "2026-11-03",
+      "regle": "Le Produit du 30/10 reste le plus faible des carrousels à âge égal (45 vues à J+4 contre 53 pour le Savoir du 29/10 et 65 pour le Coulisses du 28/10). Contenu savoir/humain > produit, à reconfirmer."
+    },
+    {
+      "date": "2026-11-03",
+      "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 7 posts du feed et 1 seul enregistrement au total (Reel du 24/10)."
+    },
+    {
+      "date": "2026-11-05",
+      "regle": "9 publications mesurées sur 30 jours (2 Reels, 6 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 05/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-05",
+      "regle": "Confirmé (2 Reels) : le Reel est le seul format qui sort de la base d'abonnés. Reel du 01/11 : portée 121, 141 vues ; Reel du 24/10 : 138. Meilleur post du feed : 24. Environ 5x."
+    },
+    {
+      "date": "2026-11-05",
+      "regle": "Nouveau : les deux derniers carrousels sont les plus faibles du feed à âge égal : Part-ML du 02/11 (7 slides, portée 11, 26 vues à J+3) et givrage du 03/11 (4 slides, portée 10, 21 vues à J+2), contre 17 à 24 de portée et 45 à 65 vues pour ceux de la semaine 44. Cause non identifiée (sujet réglementaire plus technique ou baisse de diffusion) : à surveiller, pas encore une règle."
+    },
+    {
+      "date": "2026-11-05",
+      "regle": "Rétention Reel stable et faible : view rate 3 s 26,4 % et 4,4 s de visionnage moyen pour le Reel du 01/11 (25,7 % et 4,2 s pour le 24/10). L'accroche en image 0 n'a pas changé la donne : tester au prochain Reel un premier plan de moins de 2 s avec mouvement."
+    },
+    {
+      "date": "2026-11-05",
+      "regle": "Toujours 0 commentaire, 0 partage, 0 enregistrement sur les 8 posts du feed. Appliqué aujourd'hui : sujet pratique et vérifiable (checklist des papiers de bord) plutôt qu'un sujet de coût non sourçable, pour viser l'enregistrement."
+    },
+    {
+      "date": "2026-11-06",
+      "regle": "10 publications mesurées sur 30 jours (2 Reels, 7 carrousels, 1 post simple ; carrousel du 05/11 et stories pas encore remontés). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 06/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-06",
+      "regle": "Confirmé : le Coulisses du 28/10 creuse l'écart et devient nettement le meilleur post du feed à J+9 : portée 29, 87 vues, 11 interactions et le 1er partage du feed, contre 21 de portée et 50 à 54 vues pour les savoirs et le produit. L'histoire des fondateurs mécanos est le contenu feed qui circule le mieux."
+    },
+    {
+      "date": "2026-11-06",
+      "regle": "Infirmé : le Produit du 30/10 n'est plus le plus faible à J+7 (portée 21, 50 vues, comme les savoirs du 26/10 et 29/10 : 21 de portée, 53-54 vues). Le pilier produit n'est pas pénalisé en soi ; c'est l'angle humain qui fait la différence."
+    },
+    {
+      "date": "2026-11-06",
+      "regle": "Confirmé : les carrousels réglementaires de la semaine 45 restent les plus faibles (Part-ML 02/11 : portée 11, 30 vues ; givrage 03/11 : portée 13, 29 vues) contre 21 à 29 de portée pour la semaine 44. Hypothèse : sujets trop techniques ; préférer des sujets concrets du quotidien pilote."
+    },
+    {
+      "date": "2026-11-06",
+      "regle": "Reel toujours seul à sortir de la base (121 et 138 de portée, environ 4 à 5x le meilleur post du feed). 0 enregistrement et 0 commentaire sur le feed : seul le Reel du 24/10 a été enregistré une fois."
+    },
+    {
+      "date": "2026-11-06",
+      "regle": "Appliqué aujourd'hui : post Produit raconté avec l'angle « ce qu'on voit à l'atelier » (ton coulisses), plutôt qu'une liste de fonctions."
+    },
+    {
+      "date": "2026-11-07",
+      "regle": "11 publications mesurées sur 30 jours (2 Reels, 8 carrousels, 1 post simple ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 07/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-07",
+      "regle": "Confirmé : le Coulisses du 28/10 (fondateurs mécanos) reste nettement le meilleur post du feed et continue de progresser : portée 32, 96 vues, 1 partage, contre 22 de portée et 51 à 56 vues au mieux pour les autres carrousels."
+    },
+    {
+      "date": "2026-11-07",
+      "regle": "Confirmé : les carrousels techniques/réglementaires restent sous la moyenne à âge égal (Part-ML 02/11 : portée 13, 32 vues ; givrage 03/11 : 15, 36 vues ; papiers de bord 05/11 : 11, 31 vues à J+1,5). Les sujets concrets avec angle humain passent mieux. Appliqué : « Une journée type à l'atelier » replanifié au 11/11, METAR (quotidien pilote) avancé au 10/11."
+    },
+    {
+      "date": "2026-11-07",
+      "regle": "Nouveau, à confirmer : le Produit du 06/11 démarre faiblement (portée 5, 11 vues à J+0,9), en ligne avec le démarrage lent habituel des carrousels ; jugé à J+7."
+    },
+    {
+      "date": "2026-11-07",
+      "regle": "Reel toujours seul à sortir de la base (123 et 138 de portée, environ 4x le meilleur post du feed). Rétention stable (view rate 3 s 26,8 % et 25,7 %). Prochain Reel le 15/11 (semaine ISO 46 paire) : premier plan de moins de 2 s avec mouvement."
+    },
+    {
+      "date": "2026-11-08",
+      "regle": "11 publications mesurées sur 30 jours (2 Reels, 9 posts du feed ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 08/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-08",
+      "regle": "Nouveau : la portée du feed baisse sur toute la semaine 45, tous piliers confondus (Part-ML 13, givrage 15, papiers de bord 12, produit 06/11 : 7 à J+2) contre 22 à 32 en semaine 44. Le sujet technique n'explique pas tout : le produit à angle humain démarre aussi bas. Hypothèse : baisse de diffusion générale d'un compte à 32 abonnés sans croissance ; seul le Reel peut l'amorcer."
+    },
+    {
+      "date": "2026-11-08",
+      "regle": "Confirmé : le Coulisses du 28/10 (fondateurs mécanos) reste le meilleur post du feed (portée 32, 96 vues, 1 partage) mais plafonne depuis le 07/11. Appliqué aujourd'hui : story coulisses atelier qui annonce le carrousel de lundi, pour ramener les abonnés vers le feed."
+    },
+    {
+      "date": "2026-11-08",
+      "regle": "Confirmé (2 Reels) : le Reel reste le seul format qui sort de la base (123 et 138 de portée, environ 4x le meilleur post du feed), rétention stable (view rate 3 s 26,8 % et 25,7 %). À envisager : un 2e Reel par semaine dès la semaine 46 si celui du 15/11 confirme."
+    },
+    {
+      "date": "2026-11-08",
+      "regle": "Toujours 0 commentaire et 0 enregistrement sur les 9 posts du feed ; 1 seul partage (28/10)."
+    }
+  ],
+  "reels_grand_public_faits": [
+    {
+      "date": "2026-11-01",
+      "idee": "Pourquoi les petits avions sont-ils souvent blancs ?",
+      "media": "media/2026-11-01-reel-blancs.mp4"
+    }
+  ]
 }
