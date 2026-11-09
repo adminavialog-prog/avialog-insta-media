@@ -1,0 +1,14 @@
+{"slides": [
+{"eyebrow": "SAVOIR DU MÉCANO", "title": "Ta jauge d'huile te *parle*", "body": "Lire le niveau, c'est bien. Suivre ce que ton moteur consomme, c'est ce qui nous alerte à l'atelier."},
+{"eyebrow": "QUAND LA LIRE", "title": "Avant le *premier* vol du jour", "body": "Juste après un vol, une partie de l'huile est encore dans le moteur : la jauge lit plus bas. Moteur froid, la lecture est plus juste."},
+{"eyebrow": "MOTEUR ROTAX 912", "title": "Écoute le *gargouillis*", "items": [
+{"k": "Avant de lire", "v": "Contacts coupés, tourne l'hélice à la main dans le sens de rotation"},
+{"k": "Le bon signal", "v": "L'air revient dans le réservoir : ça gargouille, tu peux lire"},
+{"k": "Le bon niveau", "v": "Entre min et max, idéalement au milieu, jamais sous le min"}]},
+{"eyebrow": "TROP, C'EST TROP", "title": "Plein à ras, pas *mieux*", "body": "Chaque moteur a son niveau optimal. Sur un Rotax 912, au-dessus du max, l'huile part par la mise à l'air. Le bon repère est dans le manuel de ton moteur."},
+{"eyebrow": "LE VRAI INDICATEUR", "title": "Note chaque *ajout*", "items": [
+{"k": "Le calcul", "v": "Huile ajoutée entre deux vidanges, divisée par les heures volées"},
+{"k": "La limite", "v": "Celle de la documentation de ton motoriste, pas celle du hangar"},
+{"k": "L'alerte", "v": "Une hausse nette de la conso : tu en parles à l'atelier avant de revoler"}]},
+{"eyebrow": "À TOI", "title": "L'huile que tu rajoutes, tu la *notes* ?", "choices": ["Oui, à chaque ajout", "De temps en temps", "Jamais, je regarde juste la jauge"]}
+]}

@@ -91,8 +91,8 @@
     {
       "date": "2026-11-09",
       "sujet": "Huile moteur : lire une jauge et repérer une conso anormale",
-      "fait": false,
-      "note": "limite de consommation : seule la SI 1427B ancienne (formule) a pu être lue au 05/11 ; renvoyer au manuel du motoriste si la SI 1427C n'est pas vérifiable ; annoncé par la story du 08/11 (« Demain, on ouvre le capot », 10:00) : garder ce sujet lundi"
+      "fait": true,
+      "note": "limite de consommation : seule la SI 1427B ancienne (formule) a pu être lue au 05/11 ; renvoyer au manuel du motoriste si la SI 1427C n'est pas vérifiable ; annoncé par la story du 08/11 (« Demain, on ouvre le capot », 10:00) : garder ce sujet lundi ; publié le 09/11 sans formule de limite (SI 1427C non lisible, seule la 1427B de 1993 lue) : limite renvoyée à la documentation du motoriste"
     },
     {
       "date": "2026-11-10",
@@ -377,6 +377,30 @@
     {
       "date": "2026-11-08",
       "regle": "Toujours 0 commentaire et 0 enregistrement sur les 9 posts du feed ; 1 seul partage (28/10)."
+    },
+    {
+      "date": "2026-11-09",
+      "regle": "11 publications mesurées sur 30 jours (2 Reels, 9 posts du feed ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 09/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-09",
+      "regle": "Confirmé : semaine 45 nettement sous la semaine 44 sur le feed. Portée cumulée 49 pour 4 carrousels (Part-ML 13, givrage 15, papiers de bord 13, produit 8) contre 98 pour 5 posts en semaine 44. Aucune publication n'a attiré d'abonné."
+    },
+    {
+      "date": "2026-11-09",
+      "regle": "Le Produit du 06/11 est le plus faible du feed à J+2,9 (portée 8, 24 vues, 3 interactions) malgré l'angle atelier ; le Produit du 30/10 était à 22. La baisse est générale, pas propre au pilier : on garde le Produit à 10 % sans l'augmenter."
+    },
+    {
+      "date": "2026-11-09",
+      "regle": "Parmi les savoirs de la semaine 45, la checklist pratique (papiers de bord, 41 vues) devance le réglementaire (Part-ML, 32 vues). Appliqué aujourd'hui : sujet concret de prévol (jauge d'huile) avec gestes à faire, annoncé par la story du 08/11."
+    },
+    {
+      "date": "2026-11-09",
+      "regle": "Reel toujours seul à sortir de la base : 01/11 à 124 de portée et 145 vues (view rate 3 s 27,4 %, 4,7 s), 24/10 à 138. Priorité de la semaine 46 : le Reel du dimanche 15/11 avec un premier plan de moins de 2 s en mouvement."
+    },
+    {
+      "date": "2026-11-09",
+      "regle": "Toujours 0 commentaire et 0 enregistrement sur les 9 posts du feed ; 1 seul partage (28/10). La question A/B/C ne déclenche rien à 32 abonnés."
     }
   ],
   "reels_grand_public_faits": [
