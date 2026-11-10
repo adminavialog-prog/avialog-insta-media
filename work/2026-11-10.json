@@ -1,0 +1,12 @@
+{"slides": [
+{"eyebrow": "À TOI", "title": "Ton METAR du matin, tu le lis en *brut* ?", "body": "Les groupes qu'on lit trop vite avant un vol. Puis c'est à toi de répondre."},
+{"eyebrow": "CAVOK", "title": "Pas juste « *beau temps* »", "items": [
+{"k": "Visibilité", "v": "10 km ou plus"},
+{"k": "Nuages", "v": "Aucun sous 5 000 ft ou sous l'altitude minimale de secteur, aucun nuage convectif"},
+{"k": "Temps", "v": "Aucun phénomène significatif"}]},
+{"eyebrow": "LES PETITES LETTRES", "title": "G et NOSIG, ça *compte*", "items": [
+{"k": "G, comme rafales", "v": "Vent max d'au moins 10 kt au-dessus du vent moyen"},
+{"k": "NOSIG", "v": "Pas de changement significatif prévu dans les 2 h qui suivent le METAR"},
+{"k": "Visibilité", "v": "Donnée en mètres : 4700, c'est 4,7 km"}]},
+{"eyebrow": "À TOI", "title": "Et toi, ton METAR, tu le lis *comment* ?", "choices": ["En brut, je décode moi-même", "Décodé par une appli", "Les deux, je compare"]}
+]}
