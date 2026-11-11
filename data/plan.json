@@ -109,7 +109,7 @@
   {
    "date": "2026-11-11",
    "sujet": "Une journée type à l'atelier",
-   "fait": false,
+   "fait": true,
    "note": "replanifié au mercredi 11/11 (non fait le 04/11) : angle coulisses humain, le format feed le plus performant"
   },
   {
@@ -421,6 +421,22 @@
   {
    "date": "2026-11-10",
    "regle": "Toujours 0 commentaire et 0 enregistrement sur les 10 posts du feed. Appliqué aujourd'hui : sujet concret du quotidien pilote (lecture du METAR) en carrousel court de 4 slides, question A/B/C en dernière slide, sans CTA."
+  },
+  {
+   "date": "2026-11-11",
+   "regle": "11 publications du feed/Reels mesurées sur 30 jours (2 Reels, 10 posts ; METAR du 10/11 pas encore remonté). Abonnés toujours à 32 (0 gagné, 0 perdu au 11/11, 0 follow attribué à un post)."
+  },
+  {
+   "date": "2026-11-11",
+   "regle": "Correction de l'observation du 10/11 : le carrousel huile du 09/11 remonte à 10 de portée et 17 vues à J+1,9 (contre 3 et 4 à J+0,9), dans la moyenne de la semaine 45. Le démarrage lent des carrousels se confirme : juger à J+7, pas à J+1."
+  },
+  {
+   "date": "2026-11-11",
+   "regle": "Confirmé : le Coulisses du 28/10 reste le meilleur post du feed (portée 32, 96 vues, seul partage) ; les savoirs concrets suivent (papiers de bord 41 vues, givrage 38). Appliqué aujourd'hui : Coulisses humain « journée type à l'atelier » en 4 slides, question A/B/C, sans CTA."
+  },
+  {
+   "date": "2026-11-11",
+   "regle": "Toujours 0 commentaire et 0 enregistrement sur les 10 posts du feed mesurés ; le Reel (124 à 138 de portée) reste environ 4x le meilleur post. Priorité inchangée : Reel du 15/11 avec premier plan en mouvement de moins de 2 s."
   }
  ],
  "reels_grand_public_faits": [

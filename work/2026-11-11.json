@@ -1,0 +1,12 @@
+{"slides": [
+{"eyebrow": "COULISSES ATELIER", "title": "Ton avion part en visite. Voilà sa *journée*.", "body": "Ce qu'on voit côté mécanos, de l'arrivée de l'avion à sa remise en service."},
+{"eyebrow": "LE MATIN", "title": "On *lit* avant de toucher", "items": [
+{"k": "Ordre de travail", "v": "La liste des tâches de la visite, préparée à l'avance"},
+{"k": "Historique", "v": "Défauts signalés, échéances proches, travaux reportés"},
+{"k": "Programme d'entretien", "v": "Ce que l'avion doit recevoir, tâche par tâche"}]},
+{"eyebrow": "LA JOURNÉE", "title": "On *ouvre*, on contrôle", "items": [
+{"k": "Inspection", "v": "Capots déposés, chaque point de la visite contrôlé"},
+{"k": "Défaut trouvé", "v": "Noté, chiffré, et le propriétaire est prévenu avant les travaux"},
+{"k": "Pièces", "v": "Commandées avec leur certificat de traçabilité"}]},
+{"eyebrow": "LE SOIR", "title": "Rien ne sort sans *signature*", "body": "Chaque tâche est tracée. Puis un mécano habilité signe l'APRS. Ta dernière visite, tu l'as suivie comment ?", "choices": ["Au fil de l'eau", "Un appel à la fin", "Rien avant la facture"]}
+]}
