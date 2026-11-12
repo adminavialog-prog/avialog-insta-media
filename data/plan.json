@@ -114,9 +114,9 @@
   },
   {
    "date": "2026-11-12",
-   "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
-   "fait": false,
-   "note": "décalé au 12/11 (post chiffre) : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général"
+   "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler",
+   "fait": true,
+   "note": "avancé du 19/11 au 12/11 (savoir concret de prévol, meilleur que le réglementaire en semaine 45)"
   },
   {
    "date": "2026-11-13",
@@ -135,8 +135,9 @@
   },
   {
    "date": "2026-11-19",
-   "sujet": "Pneus et freins : les contrôles de prévol à ne pas bâcler",
-   "fait": false
+   "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
+   "fait": false,
+   "note": "reporté du 12/11 au 19/11 : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général"
   },
   {
    "date": "2026-11-20",
@@ -437,6 +438,18 @@
   {
    "date": "2026-11-11",
    "regle": "Toujours 0 commentaire et 0 enregistrement sur les 10 posts du feed mesurés ; le Reel (124 à 138 de portée) reste environ 4x le meilleur post. Priorité inchangée : Reel du 15/11 avec premier plan en mouvement de moins de 2 s."
+  },
+  {
+   "date": "2026-11-12",
+   "regle": "12 publications mesurées sur 30 jours (2 Reels, 10 posts du feed dont le METAR du 10/11 ; le Coulisses du 11/11 démarre à peine). Abonnés toujours à 32 (0 gagné, 0 perdu au 12/11, 0 follow attribué à un post)."
+  },
+  {
+   "date": "2026-11-12",
+   "regle": "Le METAR du 10/11 (sujet concret du quotidien pilote) atteint 10 de portée et 21 vues à J+1,5, au niveau des meilleurs carrousels de la semaine 45 au même âge. Confirme la règle : concret et pratique avant réglementaire. Appliqué aujourd'hui : pneus et freins en prévol avancé à la place du coût de l'heure de vol (chiffres non sourcés)."
+  },
+  {
+   "date": "2026-11-12",
+   "regle": "Toujours 0 commentaire, 0 enregistrement sur les 11 posts du feed mesurés ; le Reel (124 à 138 de portée) reste environ 4x le meilleur post (Coulisses du 28/10 : 32). Priorité inchangée : Reel du dimanche 15/11 (semaine ISO 46 paire) avec premier plan en mouvement de moins de 2 s."
   }
  ],
  "reels_grand_public_faits": [

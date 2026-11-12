@@ -1,0 +1,17 @@
+{"slides": [
+{"eyebrow": "SAVOIR DU MÉCANO", "title": "Pneus et freins : le *bas* de ton avion compte", "body": "4 contrôles de prévol qu'on ne bâcle pas, même quand il fait froid et qu'on est pressé."},
+{"eyebrow": "PRESSION", "title": "Au *manomètre*, à froid", "body": "Un pneu sous-gonflé ne se voit presque jamais à l'œil. Après un vol, compte environ 3 h pour qu'il revienne à température. La bonne valeur est dans le manuel de ton avion."},
+{"eyebrow": "USURE", "title": "Regarde le *fond* des rainures", "items": [
+{"k": "À changer", "v": "Bande usée jusqu'au fond d'une rainure, à un seul endroit suffit"},
+{"k": "À changer", "v": "Toile visible sous la gomme"},
+{"k": "Le signe du sous-gonflage", "v": "Les épaules du pneu s'usent plus vite que le centre"}]},
+{"eyebrow": "DÉGÂTS", "title": "Fais le *tour* du pneu", "items": [
+{"k": "Hernie sur le flanc", "v": "Le pneu sort du service, tu ne voles pas"},
+{"k": "Coupure profonde", "v": "Si elle atteint la toile, c'est l'atelier qui décide"},
+{"k": "Méplat", "v": "Montre-le à l'atelier avant de revoler"}]},
+{"eyebrow": "FREINS", "title": "Un coup d'œil *derrière* la roue", "items": [
+{"k": "Fuite", "v": "Du liquide de frein sur l'étrier, la roue ou le sol"},
+{"k": "Disque", "v": "Rayures profondes ou rouille"},
+{"k": "Garnitures", "v": "Encore assez épaisses : sinon, atelier"}]},
+{"eyebrow": "À TOI", "title": "Ta pression de pneus, tu la vérifies *comment* ?", "choices": ["Au manomètre, avant le vol", "À l'œil, pendant la prévol", "Je laisse ça à l'atelier"]}
+]}
