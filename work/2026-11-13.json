@@ -1,0 +1,10 @@
+{"slides": [
+{"eyebrow": "PRODUIT", "title": "Ton avion est à l'atelier. Tu sais *où il en est* ?", "body": "Le suivi des travaux, raconté côté mécanos."},
+{"eyebrow": "CE QU'ON VOIT À L'ATELIER", "title": "L'info *se perd* entre deux appels", "items": [
+{"k": "Propriétaire", "v": "Appelle pour savoir quand l'avion ressort"},
+{"k": "Atelier Part-CAO", "v": "Répond entre deux tâches, capots ouverts"},
+{"k": "Aéroclub", "v": "Ne sait pas quand remettre l'avion au planning"},
+{"k": "CAMO", "v": "Attend le compte rendu pour suivre les échéances"}]},
+{"eyebrow": "AVEC AVIALOG", "title": "Saisi *une fois*, vu par tous", "body": "Ce que l'atelier note sur l'avion est visible en temps réel par le pilote, l'aéroclub et la CAMO. La même info, au même moment, sans coup de fil."},
+{"eyebrow": "À TOI", "title": "Ta dernière visite, tu as su *comment* où en était ton avion ?", "choices": ["J'ai appelé l'atelier", "L'atelier m'a prévenu", "Au retour de l'avion"], "cta": "Tout est sur avialog.fr"}
+]}
