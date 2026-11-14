@@ -470,6 +470,22 @@
     {
       "date": "2026-11-13",
       "regle": "Toujours 0 commentaire et 0 enregistrement sur les 12 posts du feed ; le Reel (124 et 138 de portée) reste environ 4x le meilleur post. Priorité inchangée : Reel du dimanche 15/11 (semaine ISO 46 paire), premier plan en mouvement de moins de 2 s."
+    },
+    {
+      "date": "2026-11-14",
+      "regle": "16 publications mesurées sur 30 jours (2 Reels, 14 posts du feed ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 14/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-14",
+      "regle": "Confirmé : le concret du quotidien pilote démarre le mieux. Pneus/freins du 12/11 : portée 7, 17 vues à J+1,5 ; METAR du 10/11 : portée 13, 24 vues à J+3,5, meilleur post de la semaine 46. Appliqué aujourd'hui : story quiz sur le METAR (NOSIG) plutôt qu'un sujet réglementaire."
+    },
+    {
+      "date": "2026-11-14",
+      "regle": "Le Produit du 13/11 démarre au plus bas du feed (portée 3, 6 vues à J+0,6) ; les deux Produits avec CTA du 06/11 et 13/11 sont les plus faibles de leur semaine. À revoir à J+7 avant de changer la règle du CTA."
+    },
+    {
+      "date": "2026-11-14",
+      "regle": "Toujours 0 commentaire et 0 enregistrement sur les 14 posts du feed ; le Reel (124 et 138 de portée) reste environ 5x le meilleur post (28/10 : 32). Priorité inchangée : Reel du dimanche 15/11 (semaine ISO 46 paire), premier plan en mouvement de moins de 2 s."
     }
   ],
   "reels_grand_public_faits": [
