@@ -154,7 +154,6 @@
   ],
   "reels_grand_public_idees": [
     "Combien coûte vraiment un petit avion (achat, entretien, heure de vol)",
-    "Ce qu'il y a dans le moteur d'un avion de tourisme",
     "Peut-on passer son brevet de pilote à 15 ans ?",
     "Le métier de mécanicien avion en 20 secondes"
   ],
@@ -486,6 +485,22 @@
     {
       "date": "2026-11-14",
       "regle": "Toujours 0 commentaire et 0 enregistrement sur les 14 posts du feed ; le Reel (124 et 138 de portée) reste environ 5x le meilleur post (28/10 : 32). Priorité inchangée : Reel du dimanche 15/11 (semaine ISO 46 paire), premier plan en mouvement de moins de 2 s."
+    },
+    {
+      "date": "2026-11-15",
+      "regle": "16 publications mesurées sur 30 jours (2 Reels, 14 posts du feed ; stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 15/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-15",
+      "regle": "Le Reel reste le seul levier de portée : 124 et 138 contre 8 à 32 pour les 14 posts du feed (environ 4 à 15x). Le Reel « blancs » du 01/11, accroche visible dès l'image 0, a un meilleur view rate 3 s (27,4 % contre 25,7 %) et un visionnage moyen plus long (4,7 s contre 4,2 s) que le Reel du 24/10. Appliqué aujourd'hui : Reel moteur avec mouvement dès l'image 0 et question à l'écran."
+    },
+    {
+      "date": "2026-11-15",
+      "regle": "Révisé : le Produit du 13/11 remonte à portée 9 et 29 vues à J+2, au niveau du Produit du 06/11 (9, 29 vues) et du Coulisses du 11/11 (8, 17 vues). Le CTA n'explique pas à lui seul la faiblesse : tout le feed de la semaine 46 est entre 8 et 14 de portée."
+    },
+    {
+      "date": "2026-11-15",
+      "regle": "Confirmé : METAR du 10/11 meilleur post de la semaine 46 (portée 14, 25 vues). Toujours 0 commentaire et 0 enregistrement sur les 14 posts du feed malgré la question A/B/C systématique : la question en légende ne suffit pas à déclencher des réponses."
     }
   ],
   "reels_grand_public_faits": [
@@ -493,6 +508,11 @@
       "date": "2026-11-01",
       "idee": "Pourquoi les petits avions sont-ils souvent blancs ?",
       "media": "media/2026-11-01-reel-blancs.mp4"
+    },
+    {
+      "date": "2026-11-15",
+      "idee": "Ce qu'il y a dans le moteur d'un avion de tourisme",
+      "media": "media/2026-11-15-reel-moteur.mp4"
     }
   ]
 }
