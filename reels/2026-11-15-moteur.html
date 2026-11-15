@@ -1,0 +1,78 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:BC;src:url('../fonts/BarlowCondensed-ExtraBold.ttf');font-weight:800}
+@font-face{font-family:BC;src:url('../fonts/BarlowCondensed-SemiBold.ttf');font-weight:600}
+@font-face{font-family:SM;src:url('../fonts/SpaceMono-Bold.ttf');font-weight:700}
+@font-face{font-family:SM;src:url('../fonts/SpaceMono-Regular.ttf');font-weight:400}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;background:#080a12;color:#f4f4f5;overflow:hidden;font-family:BC}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px);background-size:60px 60px;animation:drift 23s linear both}
+@keyframes drift{to{background-position:0 600px}}
+.glow{position:absolute;width:1300px;height:1300px;left:-110px;top:310px;background:radial-gradient(circle,rgba(249,115,22,.18),transparent 60%);animation:pulse 4s ease-in-out infinite alternate}
+@keyframes pulse{to{transform:scale(1.15);opacity:.7}}
+.br{position:absolute;width:90px;height:90px;border:0 solid #F97316}
+.tl{left:60px;top:220px;border-width:7px 0 0 7px}.tr{right:60px;top:220px;border-width:7px 7px 0 0}
+.bl{left:60px;bottom:300px;border-width:0 0 7px 7px}.brr{right:60px;bottom:300px;border-width:0 7px 7px 0}
+.stripes{position:absolute;left:0;right:0;bottom:0;height:22px;background:repeating-linear-gradient(-45deg,#F97316 0 26px,transparent 26px 52px);animation:slide 23s linear both}
+@keyframes slide{to{background-position:520px 0}}
+.top{position:absolute;left:120px;right:120px;top:300px;display:flex;justify-content:space-between;font-family:SM;font-size:28px;letter-spacing:6px;color:#a1a1aa}
+.top b{color:#F97316}
+.scene{position:absolute;left:120px;right:120px;top:560px;height:820px;display:flex;flex-direction:column;justify-content:center;opacity:0}
+.eyebrow{font-family:SM;font-weight:700;font-size:34px;letter-spacing:8px;color:#F97316;margin-bottom:34px}
+h1{font-weight:800;text-transform:uppercase;line-height:.92;font-size:150px;letter-spacing:-2px}
+h1.s{font-size:120px}
+.o{color:#F97316}
+.sub{font-family:BC;font-weight:600;font-size:56px;color:#d4d4d8;margin-top:36px;line-height:1.15}
+.check{display:flex;align-items:center;gap:40px}
+.box{width:120px;height:120px;border:7px solid #F97316;border-radius:18px;flex:none;position:relative}
+.box:after{content:"";position:absolute;left:32px;top:10px;width:34px;height:66px;border:solid #F97316;border-width:0 14px 14px 0;transform:rotate(45deg);opacity:0;animation:tick .25s ease-out both;animation-delay:inherit}
+.count{font-family:SM;font-size:30px;color:#71717a;margin-top:40px;letter-spacing:4px}
+.logo{font-weight:800;font-size:220px;letter-spacing:2px;line-height:1}.logo b{color:#F97316}
+.url{font-family:SM;font-weight:700;font-size:44px;color:#080a12;background:#F97316;display:inline-block;padding:22px 38px;border-radius:14px;margin-top:50px}
+@keyframes inout{0%{opacity:0;transform:translateY(60px)}8%{opacity:1;transform:none}88%{opacity:1;transform:none}100%{opacity:0;transform:translateY(-40px)}}
+@keyframes inhold{0%{opacity:0;transform:translateY(60px)}10%{opacity:1;transform:none}100%{opacity:1;transform:none}}
+@keyframes tick{from{opacity:0;transform:rotate(45deg) scale(.3)}to{opacity:1;transform:rotate(45deg) scale(1)}}
+
+@keyframes hookout{0%{opacity:1;transform:none}88%{opacity:1;transform:none}100%{opacity:0;transform:translateY(-40px)}}
+.eng{width:840px;height:auto;margin:0 0 40px 0}
+.eng .case{fill:#27272a;stroke:#F97316;stroke-width:5}
+.eng .cyl{fill:#3f3f46}.eng .fin{fill:#52525b}
+.eng .pis{fill:#F97316}
+.pl{animation:pl .5s ease-in-out infinite alternate}.pr{animation:pr .5s ease-in-out infinite alternate}
+.pl2{animation:pl .5s ease-in-out infinite alternate-reverse}.pr2{animation:pr .5s ease-in-out infinite alternate-reverse}
+@keyframes pl{from{transform:translateX(0)}to{transform:translateX(-46px)}}
+@keyframes pr{from{transform:translateX(0)}to{transform:translateX(46px)}}
+.big{font-size:330px;line-height:.9}
+.steps{display:flex;flex-direction:column;gap:18px;margin-top:30px}
+.st{font-weight:800;font-size:96px;text-transform:uppercase;opacity:0;animation:inhold .4s ease both}
+.st i{font-style:normal;font-family:SM;font-size:40px;color:#F97316;margin-right:26px;vertical-align:middle}
+.spark{position:absolute;left:50%;top:50%;width:900px;height:900px;margin:-450px;background:radial-gradient(circle,rgba(249,115,22,.4),transparent 55%);opacity:0;animation:flash .35s ease-out both}
+@keyframes flash{0%{opacity:0}30%{opacity:1}100%{opacity:0}}
+</style></head><body>
+<div class="grid"></div><div class="glow"></div>
+<div class="br tl"></div><div class="br tr"></div><div class="br bl"></div><div class="br brr"></div>
+<div class="top"><span>avia<b>log</b></span><span>AVIATION LÉGÈRE</span></div>
+<div class="scene" style="animation:hookout 2.8s ease both 0s">
+<svg class="eng" viewBox="0 0 840 330" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0,20)"><g transform="translate(40,0)"><rect class="fin" x="0" y="0" width="10" height="120" rx="3"/><rect class="fin" x="22" y="0" width="10" height="120" rx="3"/><rect class="fin" x="44" y="0" width="10" height="120" rx="3"/><rect class="fin" x="66" y="0" width="10" height="120" rx="3"/><rect class="fin" x="88" y="0" width="10" height="120" rx="3"/><rect class="fin" x="110" y="0" width="10" height="120" rx="3"/><rect class="fin" x="132" y="0" width="10" height="120" rx="3"/><rect class="fin" x="154" y="0" width="10" height="120" rx="3"/><rect class="fin" x="176" y="0" width="10" height="120" rx="3"/></g><rect class="cyl" x="40" y="14" width="200" height="92" rx="10"/><rect class="pis pl" x="190" y="26" width="40" height="68" rx="6"/></g><g transform="translate(0,190)"><g transform="translate(40,0)"><rect class="fin" x="0" y="0" width="10" height="120" rx="3"/><rect class="fin" x="22" y="0" width="10" height="120" rx="3"/><rect class="fin" x="44" y="0" width="10" height="120" rx="3"/><rect class="fin" x="66" y="0" width="10" height="120" rx="3"/><rect class="fin" x="88" y="0" width="10" height="120" rx="3"/><rect class="fin" x="110" y="0" width="10" height="120" rx="3"/><rect class="fin" x="132" y="0" width="10" height="120" rx="3"/><rect class="fin" x="154" y="0" width="10" height="120" rx="3"/><rect class="fin" x="176" y="0" width="10" height="120" rx="3"/></g><rect class="cyl" x="40" y="14" width="200" height="92" rx="10"/><rect class="pis pl2" x="190" y="26" width="40" height="68" rx="6"/></g><g transform="translate(0,20)"><g transform="translate(600,0)"><rect class="fin" x="0" y="0" width="10" height="120" rx="3"/><rect class="fin" x="22" y="0" width="10" height="120" rx="3"/><rect class="fin" x="44" y="0" width="10" height="120" rx="3"/><rect class="fin" x="66" y="0" width="10" height="120" rx="3"/><rect class="fin" x="88" y="0" width="10" height="120" rx="3"/><rect class="fin" x="110" y="0" width="10" height="120" rx="3"/><rect class="fin" x="132" y="0" width="10" height="120" rx="3"/><rect class="fin" x="154" y="0" width="10" height="120" rx="3"/><rect class="fin" x="176" y="0" width="10" height="120" rx="3"/></g><rect class="cyl" x="600" y="14" width="200" height="92" rx="10"/><rect class="pis pr2" x="610" y="26" width="40" height="68" rx="6"/></g><g transform="translate(0,190)"><g transform="translate(600,0)"><rect class="fin" x="0" y="0" width="10" height="120" rx="3"/><rect class="fin" x="22" y="0" width="10" height="120" rx="3"/><rect class="fin" x="44" y="0" width="10" height="120" rx="3"/><rect class="fin" x="66" y="0" width="10" height="120" rx="3"/><rect class="fin" x="88" y="0" width="10" height="120" rx="3"/><rect class="fin" x="110" y="0" width="10" height="120" rx="3"/><rect class="fin" x="132" y="0" width="10" height="120" rx="3"/><rect class="fin" x="154" y="0" width="10" height="120" rx="3"/><rect class="fin" x="176" y="0" width="10" height="120" rx="3"/></g><rect class="cyl" x="600" y="14" width="200" height="92" rx="10"/><rect class="pis pr" x="610" y="26" width="40" height="68" rx="6"/></g><rect class="case" x="260" y="10" width="320" height="310" rx="30"/><circle cx="420" cy="165" r="44" fill="#080a12" stroke="#F97316" stroke-width="5"/><circle cx="420" cy="165" r="12" fill="#F97316"/></svg><div class="eyebrow">SOUS LE CAPOT</div><h1 class="s">Il y a quoi dans le moteur d'un <span class="o">petit avion ?</span></h1>
+</div>
+<div class="scene" style="animation:inout 3.0s ease both 2.8s">
+<h1 class="s">Des cylindres <span class="o">à&nbsp;plat.</span></h1><div class="sub">Face à face, de chaque côté. Toujours en nombre pair.</div>
+</div>
+<div class="scene" style="animation:inout 3.0s ease both 5.8s">
+<h1 class="s">Refroidi par <span class="o">l'air.</span></h1><div class="sub">Sur la plupart de ces moteurs, pas d'eau : l'air entre par le capot.</div>
+</div>
+<div class="scene" style="animation:inout 3.8s ease both 8.8s">
+<div class="eyebrow">UN MOTEUR</div><h1><span class="o">4 temps</span></h1>
+<div class="steps"><div class="st" style="animation-delay:9.3s"><i>1</i>Admission</div><div class="st" style="animation-delay:9.9s"><i>2</i>Compression</div><div class="st" style="animation-delay:10.5s"><i>3</i>Détente</div><div class="st" style="animation-delay:11.1s"><i>4</i>Échappement</div></div>
+</div>
+<div class="scene" style="animation:inout 3.4s ease both 12.6s">
+<h1 class="s">L'étincelle ne vient pas de la <span class="o">batterie.</span></h1><div class="sub">Elle vient de magnétos : des générateurs entraînés par le moteur lui-même.</div>
+</div>
+<div class="spark" style="animation-delay:16.0s"></div>
+<div class="scene" style="animation:inout 3.0s ease both 16.0s">
+<h1 class="big"><span class="o">×2</span></h1><h1 class="s">Et il y en a deux.</h1><div class="sub">Deux magnétos complètes sur le même moteur.</div>
+</div>
+<div class="scene" style="animation:inhold 3.8s ease both 19.0s">
+<div class="logo">avia<b>log</b></div><div class="sub">Fait par des mécanos, pour l'aviation légère.</div><div><span class="url">avialog.fr</span></div>
+</div>
+<div class="stripes"></div>
+</body></html>
