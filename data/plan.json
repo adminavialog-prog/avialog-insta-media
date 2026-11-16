@@ -126,7 +126,8 @@
     {
       "date": "2026-11-16",
       "sujet": "Potentiels et butées : comprendre l'état de ton avion",
-      "fait": false
+      "fait": true,
+      "note": "publié le 16/11 en carrousel 6 slides, angle concret « ce qu'il reste à ton avion » (apprentissage : concret > réglementaire)"
     },
     {
       "date": "2026-11-18",
@@ -501,6 +502,26 @@
     {
       "date": "2026-11-15",
       "regle": "Confirmé : METAR du 10/11 meilleur post de la semaine 46 (portée 14, 25 vues). Toujours 0 commentaire et 0 enregistrement sur les 14 posts du feed malgré la question A/B/C systématique : la question en légende ne suffit pas à déclencher des réponses."
+    },
+    {
+      "date": "2026-11-16",
+      "regle": "16 publications du feed et Reels mesurées sur 30 jours (2 Reels, 14 posts ; Reel du 15/11 pas encore remonté, stories non remontées). Abonnés toujours à 32 depuis le 23/10 (0 gagné, 0 perdu au 16/11, 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-16",
+      "regle": "Nouveau : la semaine 46 rattrape la semaine 45 sur le feed. Portée cumulée 59 pour 5 posts (huile 11, METAR 15, Coulisses 9, pneus/freins 12, Produit 12) contre 56 pour 4 posts en semaine 45 ; la baisse s'arrête mais on reste loin de la semaine 44 (98 à 113)."
+    },
+    {
+      "date": "2026-11-16",
+      "regle": "Révisé : le Produit du 13/11 devient le post le plus vu de la semaine 46 (40 vues à J+3, portée 12), devant pneus/freins (34 vues) et METAR (26 vues). Le Produit court raconté depuis l'atelier, avec CTA, ne pénalise pas : on garde le Produit à 10 % avec cet angle."
+    },
+    {
+      "date": "2026-11-16",
+      "regle": "Confirmé : les savoirs concrets de prévol (pneus/freins 34 vues, papiers de bord 42) devancent les sujets d'atelier ou réglementaires (Coulisses 11/11 : 18 vues, huile 19 vues, Part-ML 37 vues à J+14). Appliqué aujourd'hui : potentiels et butées traités sous l'angle « ce que tu regardes avant de réserver l'avion »."
+    },
+    {
+      "date": "2026-11-16",
+      "regle": "Toujours 0 commentaire et 0 enregistrement sur les 14 posts du feed ; le Reel (125 et 138 de portée) reste environ 4x le meilleur post (28/10 : 33). Le Reel moteur du 15/11 sera jugé à J+3."
     }
   ],
   "reels_grand_public_faits": [

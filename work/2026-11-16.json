@@ -1,0 +1,16 @@
+{"slides": [
+{"eyebrow": "SAVOIR DU MÉCANO", "title": "Potentiel, butée : ce qu'il *reste* à ton avion", "body": "Avant de réserver l'avion, les questions qu'on se pose d'abord à l'atelier."},
+{"eyebrow": "LES MOTS", "title": "Une butée, c'est une *limite*", "items": [
+{"k": "Butée", "v": "Une date ou un nombre d'heures à ne pas dépasser sans intervention"},
+{"k": "Potentiel", "v": "Ce qu'il reste avant d'arriver à la butée"}]},
+{"eyebrow": "DEUX COMPTEURS", "title": "En heures *et* en date", "items": [
+{"k": "Visite 100 h / annuelle", "v": "Programme minimal Part-ML : au premier des deux termes atteint"},
+{"k": "Moteur Lycoming", "v": "Révision à un nombre d'heures selon le modèle, et 12 ans calendaires au plus"},
+{"k": "Le piège", "v": "Un avion qui vole peu peut atteindre sa butée par la date, pas par les heures"}]},
+{"eyebrow": "LES PAPIERS", "title": "Trois dates à *regarder*", "items": [
+{"k": "ARC", "v": "Valable 1 an : vérifie sa date de fin"},
+{"k": "Prochaine visite", "v": "Les heures restantes au compteur"},
+{"k": "Consignes de navigabilité", "v": "Certaines imposent leur propre échéance"}]},
+{"eyebrow": "EN PRATIQUE", "title": "Le potentiel se *suit*", "body": "Il ne se devine pas. Heures du carnet de route, dates des visites, échéances : à jour et partagées entre pilote, atelier et CAMO, personne ne vole sur une butée dépassée."},
+{"eyebrow": "À TOI", "title": "Le potentiel avant la prochaine visite, tu le *connais* ?", "choices": ["Oui, à l'heure près", "À peu près", "Non, je demande au club"]}
+]}
