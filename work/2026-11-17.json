@@ -1,0 +1,12 @@
+{"slides":[
+{"eyebrow":"À TOI","title":"Ton essence, tu la vérifies à la *jauge* ?","body":"Avant chaque vol, la quantité à bord se contrôle. La vraie question, c'est comment."},
+{"eyebrow":"CE QU'ON VOIT À L'ATELIER","title":"La jauge peut se *tromper*","items":[
+{"k":"Les jauges","v":"Sur avion léger, elles sont connues pour leur imprécision"},
+{"k":"Le contrôle physique","v":"Regarder dans le réservoir ou le mesurer à la pige reste plus fiable"},
+{"k":"Après un plein","v":"Compare ce qui a été livré et ce qu'il y a vraiment dans le réservoir"}]},
+{"eyebrow":"LA PIGE, BIEN UTILISÉE","title":"Trois conditions pour une *bonne* lecture","items":[
+{"k":"La bonne pige","v":"Étalonnée pour ton type d'avion"},
+{"k":"Sol à plat","v":"Avion garé sur un terrain horizontal"},
+{"k":"Patience","v":"Laisse le niveau se stabiliser avant de mesurer"}]},
+{"eyebrow":"À TOI","title":"Et toi, ton carburant, tu le vérifies *comment* ?","choices":["La jauge me suffit","Je regarde ou je pige","Jauge et pige, je compare"]}
+]}

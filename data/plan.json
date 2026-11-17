@@ -130,6 +130,12 @@
       "note": "publié le 16/11 en carrousel 6 slides, angle concret « ce qu'il reste à ton avion » (apprentissage : concret > réglementaire)"
     },
     {
+      "date": "2026-11-17",
+      "sujet": "Carburant à bord : jauge, pige ou les deux ?",
+      "fait": true,
+      "note": "hors banque initiale (aucun sujet Conversation daté du 17/11) ; carrousel 4 slides, faits vérifiés sur le dépliant sécurité de l'IAA (Irish Aviation Authority) « Fuel starvation / fuel exhaustion »"
+    },
+    {
       "date": "2026-11-18",
       "sujet": "Les coulisses d'une mise à jour d'Avialog",
       "fait": false
@@ -522,6 +528,18 @@
     {
       "date": "2026-11-16",
       "regle": "Toujours 0 commentaire et 0 enregistrement sur les 14 posts du feed ; le Reel (125 et 138 de portée) reste environ 4x le meilleur post (28/10 : 33). Le Reel moteur du 15/11 sera jugé à J+3."
+    },
+    {
+      "date": "2026-11-17",
+      "regle": "Nouveau : le Reel moteur du 15/11 a le meilleur view rate 3 s des trois Reels (41,1 % contre 25,5 % et 27,0 %) avec une accroche-contraste (« Pas un moteur de voiture »), mais le visionnage moyen le plus court (3,2 s contre 4,1 et 4,7 s) et 3 interactions seulement. Prochain Reel : garder l'accroche-contraste, livrer la première info avant 3 s."
+    },
+    {
+      "date": "2026-11-17",
+      "regle": "Confirmé : les 3 Reels font 111 à 138 de portée, soit 3,4 à 4x le meilleur post du feed (28/10 : 33). Abonnés toujours à 32, 0 follow attribué à une publication."
+    },
+    {
+      "date": "2026-11-17",
+      "regle": "Confirmé sur les mardis Conversation : les carrousels utiles avec question finale (givrage 17, METAR 17) devancent le post question seul (carnet de vol 15). Appliqué aujourd'hui : carrousel 4 slides sur un geste de prévol concret, choix A/B/C sur le visuel. Toujours 0 commentaire sur 14 posts : écart trop faible pour conclure sur le format."
     }
   ],
   "reels_grand_public_faits": [
