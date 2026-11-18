@@ -1,0 +1,46 @@
+{
+"slides": [
+{
+"eyebrow": "PREUVE",
+"title": "Avialog, ça coûte *combien* ?",
+"body": "Les tarifs publics, rôle par rôle. Pilote, aéroclub, atelier, CAMO."
+},
+{
+"eyebrow": "TARIFS PUBLICS",
+"title": "Un tarif *par rôle*",
+"items": [
+{
+"k": "4,99 € / mois",
+"v": "Pilote"
+},
+{
+"k": "49 à 129 € / mois",
+"v": "Aéroclub"
+},
+{
+"k": "249 € / mois",
+"v": "Atelier Part-145"
+},
+{
+"k": "299 € / mois",
+"v": "CAMO"
+}
+]
+},
+{
+"eyebrow": "CE QUE ÇA RELIE",
+"title": "Chacun son tarif, *une seule* info",
+"body": "Ce que le pilote signale, l'atelier le voit. Ce que l'atelier note, l'aéroclub et la CAMO le voient. En temps réel, sans coup de fil."
+},
+{
+"eyebrow": "À TOI",
+"title": "Chez toi, qui paierait le *suivi* de l'avion ?",
+"choices": [
+"Le pilote",
+"L'aéroclub",
+"L'atelier ou la CAMO"
+],
+"cta": "Tous les tarifs sur avialog.fr"
+}
+]
+}
