@@ -137,8 +137,8 @@
     },
     {
       "date": "2026-11-18",
-      "sujet": "Les coulisses d'une mise à jour d'Avialog",
-      "fait": false
+      "sujet": "Avialog, ça coûte combien ? Les tarifs publics rôle par rôle (Preuve, hors banque)",
+      "fait": true
     },
     {
       "date": "2026-11-19",
@@ -151,6 +151,12 @@
       "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
       "fait": false,
       "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer"
+    },
+    {
+      "date": "2026-11-25",
+      "sujet": "Les coulisses d'une mise à jour d'Avialog",
+      "fait": false,
+      "note": "reporté du 18/11 : publier seulement avec le contenu réel d'une mise à jour (changelog public ou info d'Alexis/Jules), sinon remplacer"
     },
     {
       "date": "2026-11-25",
@@ -540,6 +546,22 @@
     {
       "date": "2026-11-17",
       "regle": "Confirmé sur les mardis Conversation : les carrousels utiles avec question finale (givrage 17, METAR 17) devancent le post question seul (carnet de vol 15). Appliqué aujourd'hui : carrousel 4 slides sur un geste de prévol concret, choix A/B/C sur le visuel. Toujours 0 commentaire sur 14 posts : écart trop faible pour conclure sur le format."
+    },
+    {
+      "date": "2026-11-18",
+      "regle": "16 publications mesurées sur 30 jours (3 Reels, 13 posts remontés ; carrousel du 17/11 et stories non remontés). Abonnés toujours à 32 (IGEV43/44 : 0 gagné, 0 perdu)."
+    },
+    {
+      "date": "2026-11-18",
+      "regle": "Nouveau : le carrousel potentiels/butées du 16/11 démarre bas (portée 10, 20 vues à J+2), au niveau du Coulisses du 11/11 ; les sujets réglementaires/atelier restent sous les savoirs de prévol concrets (pneus/freins 16, givrage 18). Confirmé pour la 3e semaine."
+    },
+    {
+      "date": "2026-11-18",
+      "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 13 posts du feed mesurés ; les Reels (113 à 138 de portée) restent environ 4x le meilleur post (28/10 : 33). Le Reel moteur du 15/11 plafonne (113 de portée, 121 vues)."
+    },
+    {
+      "date": "2026-11-18",
+      "regle": "Appliqué aujourd'hui : premier post du pilier Preuve (jamais testé), fondé uniquement sur les tarifs publics, format carrousel 4 slides avec prix en gros et question A/B/C ; le sujet « coulisses d'une mise à jour » est reporté faute de contenu vérifiable. À comparer aux Produit avec CTA (13/11 : portée 14, 42 vues)."
     }
   ],
   "reels_grand_public_faits": [
