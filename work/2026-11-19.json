@@ -1,0 +1,14 @@
+{"slides": [
+{"eyebrow": "SAVOIR DU MÉCANO", "title": "Ton hélice, tu la regardes *vraiment* ?", "body": "Une petite entaille sur une pale, ça ne fait pas de bruit. Jusqu'au jour où ça casse. Ce qu'on regarde, et pourquoi."},
+{"eyebrow": "POURQUOI", "title": "Chaque entaille peut devenir une *crique*", "body": "Une entaille, une piqûre de corrosion ou un choc concentrent les efforts sur la pale. La crique part de là, grandit vol après vol, et la pale peut finir par casser. Souvent vers le bout."},
+{"eyebrow": "PRÉVOL", "title": "Les deux faces, et le *bord d'attaque*", "items": [
+{"k": "Les deux faces", "v": "Entailles, rayures, chocs, corrosion, peinture abîmée"},
+{"k": "Le bord d'attaque", "v": "Passe l'ongle le long du bord : il accroche, tu regardes de près"},
+{"k": "La casserole", "v": "Vis en place, pas de fissure, pas de trace d'huile"}]},
+{"eyebrow": "AU SOL", "title": "Hélice = moteur *prêt à partir*", "items": [
+{"k": "Toujours", "v": "Considère que l'allumage est resté sur ON, même contact coupé"},
+{"k": "Pour déplacer l'avion", "v": "La barre de tractage, pas les pales ni la casserole"},
+{"k": "Coupure magnétos ratée", "v": "Moteur coupé à la mixture, hélice signalée, atelier prévenu"}]},
+{"eyebrow": "SI TU TROUVES QUELQUE CHOSE", "title": "Tu ne voles pas, tu *montres*", "body": "Une entaille ne se lime pas au parking. On la fait voir à un mécano qualifié avant le prochain vol : c'est lui qui juge. Et une crique ne se répare pas."},
+{"eyebrow": "À TOI", "title": "Ton hélice à la prévol, tu fais *quoi* ?", "choices": ["Je passe l'ongle sur le bord d'attaque", "Un coup d'œil rapide", "Je ne la regarde presque pas"]}
+]}

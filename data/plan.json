@@ -142,9 +142,14 @@
     },
     {
       "date": "2026-11-19",
+      "sujet": "Hélice : ce qu'on regarde à la prévol (hors banque)",
+      "fait": true
+    },
+    {
+      "date": "2026-12-03",
       "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
       "fait": false,
-      "note": "reporté du 12/11 au 19/11 : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général"
+      "note": "reporté du 12/11 au 19/11 : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général ; reporté à nouveau le 19/11 : hors pilier Savoir du mécano et chiffres non sourcés ; remplacé par l'hélice (savoir de prévol concret)"
     },
     {
       "date": "2026-11-20",
@@ -562,6 +567,22 @@
     {
       "date": "2026-11-18",
       "regle": "Appliqué aujourd'hui : premier post du pilier Preuve (jamais testé), fondé uniquement sur les tarifs publics, format carrousel 4 slides avec prix en gros et question A/B/C ; le sujet « coulisses d'une mise à jour » est reporté faute de contenu vérifiable. À comparer aux Produit avec CTA (13/11 : portée 14, 42 vues)."
+    },
+    {
+      "date": "2026-11-19",
+      "regle": "17 publications du feed et 3 Reels mesurés sur 30 jours (story non remontées). Abonnés toujours à 32 (IGEV43/44 au 19/11 : 0 gagné, 0 perdu ; 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-19",
+      "regle": "Nouveau : le Preuve tarifs du 18/11 démarre au plus bas du feed (portée 2, 3 vues à J+0,8) ; le carrousel carburant du 17/11 atteint 7 de portée et 18 vues à J+1,5, dans la moyenne lente des carrousels. Juger les deux à J+7 avant de conclure."
+    },
+    {
+      "date": "2026-11-19",
+      "regle": "Confirmé (4e semaine) : les savoirs de prévol concrets restent devant le réglementaire/atelier (pneus/freins 39 vues, papiers de bord 42, givrage 40 contre potentiels 31, huile 22, journée atelier 19). Appliqué aujourd'hui : le sujet « coût d'une heure de vol » (non sourcé, hors pilier) est remplacé par un savoir de prévol concret, l'hélice."
+    },
+    {
+      "date": "2026-11-19",
+      "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 17 posts du feed ; le Reel reste le seul format qui sort de la base (116 à 138 de portée, environ 4x le meilleur post). Prochain Reel le dimanche 29/11 (semaine ISO 48 paire)."
     }
   ],
   "reels_grand_public_faits": [
