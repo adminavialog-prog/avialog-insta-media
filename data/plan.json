@@ -146,16 +146,10 @@
       "fait": true
     },
     {
-      "date": "2026-12-03",
-      "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
-      "fait": false,
-      "note": "reporté du 12/11 au 19/11 : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général ; reporté à nouveau le 19/11 : hors pilier Savoir du mécano et chiffres non sourcés ; remplacé par l'hélice (savoir de prévol concret)"
-    },
-    {
       "date": "2026-11-20",
-      "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
-      "fait": false,
-      "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer"
+      "sujet": "Défaut trouvé à la prévol : le trajet de l'info jusqu'à l'atelier (Produit, hors banque)",
+      "fait": true,
+      "note": "remplace le planning aéroclub (non vérifiable) ; angle prévol concret + atelier (apprentissage) ; aucun article réglementaire cité"
     },
     {
       "date": "2026-11-25",
@@ -168,6 +162,18 @@
       "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
       "fait": false,
       "note": "repoussé : publier uniquement avec un retour réel et autorisé, sinon basculer sur Coulisses"
+    },
+    {
+      "date": "2026-12-03",
+      "sujet": "Ce que coûte vraiment une heure de vol en aéroclub",
+      "fait": false,
+      "note": "reporté du 12/11 au 19/11 : chiffres à sourcer (FFA, tarifs publics de clubs) sinon rester général ; reporté à nouveau le 19/11 : hors pilier Savoir du mécano et chiffres non sourcés ; remplacé par l'hélice (savoir de prévol concret)"
+    },
+    {
+      "date": "2026-12-04",
+      "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
+      "fait": false,
+      "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer ; reporté à nouveau le 20/11 : fonction de réservation toujours non vérifiable (aucune source publique trouvée), remplacé par « Défaut trouvé à la prévol »"
     }
   ],
   "reels_grand_public_idees": [
@@ -583,6 +589,26 @@
     {
       "date": "2026-11-19",
       "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 17 posts du feed ; le Reel reste le seul format qui sort de la base (116 à 138 de portée, environ 4x le meilleur post). Prochain Reel le dimanche 29/11 (semaine ISO 48 paire)."
+    },
+    {
+      "date": "2026-11-20",
+      "regle": "20 publications mesurées sur 30 jours (3 Reels, 17 posts du feed ; hélice du 19/11 et stories pas encore remontées). Abonnés toujours à 32 (IGEV43/44 au 20/11 : 0 gagné, 0 perdu ; 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-20",
+      "regle": "Révisé : le Preuve tarifs du 18/11 rattrape la moyenne à J+2 (portée 12, 29 vues), au niveau du Produit du 13/11 au même âge (9, 29 vues). Le démarrage à 2 de portée était le démarrage lent habituel, pas un rejet du pilier Preuve."
+    },
+    {
+      "date": "2026-11-20",
+      "regle": "Confirmé à J+7 : le Produit du 13/11 (angle atelier, carrousel court 4 slides, CTA) finit à portée 15 et 44 vues, meilleur Produit depuis le 30/10 (23, 52) et devant le Produit du 06/11 (11, 32). Appliqué aujourd'hui : Produit court raconté depuis l'atelier, ancré sur un geste de prévol."
+    },
+    {
+      "date": "2026-11-20",
+      "regle": "Nouveau, à confirmer : sur les mardis Conversation, le carburant du 17/11 est le plus faible à J+2,5 (portée 8, 20 vues) contre givrage (18, 40) et METAR (18, 34). Même format ; le sujet carburant/jauge accroche moins."
+    },
+    {
+      "date": "2026-11-20",
+      "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 17 posts du feed ; les Reels (116 à 138 de portée) restent environ 4x le meilleur post (28/10 : 33). Prochain Reel le dimanche 29/11 (semaine ISO 48 paire)."
     }
   ],
   "reels_grand_public_faits": [

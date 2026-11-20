@@ -1,0 +1,11 @@
+{"slides": [
+{"eyebrow": "PRODUIT", "title": "Défaut trouvé à la *prévol*. Et maintenant ?", "body": "Le trajet d'un défaut, raconté côté mécanos."},
+{"eyebrow": "CE QU'ON VOIT À L'ATELIER", "title": "L'info arrive *trop tard*", "items": [
+{"k": "Pilote", "v": "Note le défaut ou passe un coup de fil"},
+{"k": "Aéroclub", "v": "L'apprend quand l'avion est déjà réservé"},
+{"k": "Atelier Part-CAO", "v": "Le découvre quand l'avion arrive"},
+{"k": "CAMO", "v": "Attend le compte rendu"}]},
+{"eyebrow": "AVEC AVIALOG", "title": "Saisi *une fois*, vu par tous", "body": "Le pilote signale le défaut. L'atelier Part-CAO, l'aéroclub et la CAMO voient la même info, au même moment, en temps réel."},
+{"eyebrow": "LE BON RÉFLEXE", "title": "Un doute ? Un *mécano* d'abord", "body": "Un défaut vu à la prévol se fait voir à l'atelier avant de voler. Plus l'info circule vite, plus l'avion revient vite en ligne."},
+{"eyebrow": "À TOI", "title": "Ton dernier défaut de prévol, tu l'as signalé *comment* ?", "choices": ["Au carnet de route", "Par téléphone au club ou à l'atelier", "Je ne l'ai pas signalé"]}
+]}
