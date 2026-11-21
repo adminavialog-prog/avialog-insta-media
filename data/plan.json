@@ -152,6 +152,12 @@
       "note": "remplace le planning aéroclub (non vérifiable) ; angle prévol concret + atelier (apprentissage) ; aucun article réglementaire cité"
     },
     {
+      "date": "2026-11-21",
+      "sujet": "Quiz story : visite 100 h / annuelle, au premier des deux termes (Conversation, hors banque, rappel du carrousel Potentiel du 16/11)",
+      "fait": true,
+      "note": "aucun sujet Conversation dans la banque ; reprend le meilleur post de la semaine 47 ; règle déjà vérifiée le 29/10 (programme minimal Part-ML, AMC1 ML.A.302(d))"
+    },
+    {
       "date": "2026-11-25",
       "sujet": "Les coulisses d'une mise à jour d'Avialog",
       "fait": false,
@@ -609,6 +615,22 @@
     {
       "date": "2026-11-20",
       "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 17 posts du feed ; les Reels (116 à 138 de portée) restent environ 4x le meilleur post (28/10 : 33). Prochain Reel le dimanche 29/11 (semaine ISO 48 paire)."
+    },
+    {
+      "date": "2026-11-21",
+      "regle": "22 publications mesurées sur 30 jours (3 Reels, 19 posts du feed ; défaut de prévol du 20/11 remonté à J+1). Abonnés toujours à 32 (IGEV43/44 au 21/11 : 0 gagné, 0 perdu ; 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-21",
+      "regle": "Nouveau, mesuré : la portée moyenne des posts du feed baisse depuis le lancement : 23 (semaine du 26/10), 15 (semaine du 02/11), 14 (semaine du 09/11), 11 (16-18/11). Avec 32 abonnés stables, le feed tourne en vase clos ; seuls les Reels (116 à 138) touchent des non-abonnés."
+    },
+    {
+      "date": "2026-11-21",
+      "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 19 posts du feed ; l'appel « Enregistre ce carrousel » (05/11) n'a rien changé."
+    },
+    {
+      "date": "2026-11-21",
+      "regle": "Semaine 47 : meilleur post du feed = Potentiel/butée du 16/11 (portée 13, 31 vues), devant le Preuve tarifs (12, 29). Hélice du 19/11 à J+1,5 : 9 de portée, 16 vues ; Produit du 20/11 à J+1 : 5, 16 vues (démarrage lent habituel, à relire à J+5). Appliqué aujourd'hui : la story quiz reprend le sujet du meilleur post de la semaine (100 h / annuelle)."
     }
   ],
   "reels_grand_public_faits": [
