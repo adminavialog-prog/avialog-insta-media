@@ -180,6 +180,76 @@
       "sujet": "Planning aéroclub : réserver un avion sans appel ni tableau blanc",
       "fait": false,
       "note": "reporté du 06/11 : vérifier sur avialog.fr que la réservation d'avion existe et ce qu'elle fait avant de publier, sinon remplacer ; reporté à nouveau le 20/11 : fonction de réservation toujours non vérifiable (aucune source publique trouvée), remplacé par « Défaut trouvé à la prévol »"
+    },
+    {
+      "date": "2026-11-23",
+      "pilier": "Savoir du mécano",
+      "sujet": "Purge carburant : ce que le godet te dit",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; annoncé par la story du 22/11 ; sources à vérifier : FAA PHAK / manuels constructeurs ; prévol concret = format le plus performant du pilier"
+    },
+    {
+      "date": "2026-11-24",
+      "pilier": "Conversation",
+      "sujet": "Ta check-list prévol : papier, appli ou de mémoire ?",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; question A/B/C sans chiffre"
+    },
+    {
+      "date": "2026-11-25",
+      "pilier": "Coulisses",
+      "sujet": "Ce qu'un mécano regarde en premier quand un avion arrive à l'atelier",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; angle humain, alternative aux deux sujets bloqués du 25/11"
+    },
+    {
+      "date": "2026-11-26",
+      "pilier": "Savoir du mécano",
+      "sujet": "Point fixe : à quoi sert l'essai des magnétos",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; prolonge le Reel moteur du 15/11 ; chiffres de chute de régime = manuel de l'avion, ne pas généraliser"
+    },
+    {
+      "date": "2026-11-27",
+      "pilier": "Produit",
+      "sujet": "Les échéances de ton avion, vues par toi, l'atelier et la CAMO",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; prolonge Potentiel/butée (meilleur Savoir de la semaine 47) ; angle atelier, carrousel court"
+    },
+    {
+      "date": "2026-11-30",
+      "pilier": "Savoir du mécano",
+      "sujet": "Pitot et prises statiques : le contrôle de prévol qui protège tes instruments",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués)"
+    },
+    {
+      "date": "2026-12-01",
+      "pilier": "Conversation",
+      "sujet": "Vent de travers : ta limite perso, c'est combien ?",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; référence = composante démontrée du manuel de vol, pas de chiffre général"
+    },
+    {
+      "date": "2026-12-02",
+      "pilier": "Coulisses",
+      "sujet": "Une pièce neuve, de la caisse à l'avion : la traçabilité vue de l'atelier",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; vérifier le Formulaire 1 EASA sur source officielle"
+    },
+    {
+      "date": "2026-12-07",
+      "pilier": "Savoir du mécano",
+      "sujet": "Corrosion : où elle se cache sur un avion léger",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; sources constructeurs / FAA AC 43-4"
+    },
+    {
+      "date": "2026-12-08",
+      "pilier": "Conversation",
+      "sujet": "Après un atterrissage dur, tu le signales ? Oui ou non",
+      "fait": false,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; lien avec le message de fond : signaler une fois, visible par l'atelier"
     }
   ],
   "reels_grand_public_idees": [
@@ -631,6 +701,30 @@
     {
       "date": "2026-11-21",
       "regle": "Semaine 47 : meilleur post du feed = Potentiel/butée du 16/11 (portée 13, 31 vues), devant le Preuve tarifs (12, 29). Hélice du 19/11 à J+1,5 : 9 de portée, 16 vues ; Produit du 20/11 à J+1 : 5, 16 vues (démarrage lent habituel, à relire à J+5). Appliqué aujourd'hui : la story quiz reprend le sujet du meilleur post de la semaine (100 h / annuelle)."
+    },
+    {
+      "date": "2026-11-22",
+      "regle": "22 publications mesurées sur 30 jours (3 Reels, 19 posts du feed). Abonnés toujours à 32 (IGEV43/44 au 22/11 : 0 gagné, 0 perdu ; 0 follow attribué à un post)."
+    },
+    {
+      "date": "2026-11-22",
+      "regle": "Révisé à J+4 : le meilleur post du feed de la semaine 47 est le Preuve tarifs du 18/11 (portée 14, 35 vues), devant Potentiel/butée du 16/11 (13, 31). Les deux posts les plus concrets en chiffres (prix, heures/années) mènent la semaine ; le carburant du 17/11 reste le plus faible (8, 22)."
+    },
+    {
+      "date": "2026-11-22",
+      "regle": "Mesuré : portée moyenne du feed par semaine : 23 (26/10), 15 (02/11), 14,4 (09/11), 11,2 (16-20/11). La baisse continue ; le feed tourne sur les 32 abonnés."
+    },
+    {
+      "date": "2026-11-22",
+      "regle": "Nouveau : le Reel du 15/11 a le meilleur view rate 3 s (41,7 % contre 25-27 %) mais le visionnage moyen le plus court (3,2 s contre 4,1-4,7 s) et la portée la plus faible des Reels (117). L'accroche retient, la suite décroche : pour le Reel du 29/11, première info utile avant 3 s et plans plus courts."
+    },
+    {
+      "date": "2026-11-22",
+      "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 19 posts du feed mesurés."
+    },
+    {
+      "date": "2026-11-22",
+      "regle": "Appliqué aujourd'hui : story Coulisses en teaser du carrousel de lundi (même format que les 25/10 et 08/11). Effet du teaser non mesurable (stories sans statistiques dans le journal, 2 cas seulement) : données insuffisantes."
     }
   ],
   "reels_grand_public_faits": [
