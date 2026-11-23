@@ -185,7 +185,7 @@
       "date": "2026-11-23",
       "pilier": "Savoir du mécano",
       "sujet": "Purge carburant : ce que le godet te dit",
-      "fait": false,
+      "fait": true,
       "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; annoncé par la story du 22/11 ; sources à vérifier : FAA PHAK / manuels constructeurs ; prévol concret = format le plus performant du pilier"
     },
     {
@@ -725,6 +725,26 @@
     {
       "date": "2026-11-22",
       "regle": "Appliqué aujourd'hui : story Coulisses en teaser du carrousel de lundi (même format que les 25/10 et 08/11). Effet du teaser non mesurable (stories sans statistiques dans le journal, 2 cas seulement) : données insuffisantes."
+    },
+    {
+      "date": "2026-11-23",
+      "regle": "Semaine 47 bouclée (16-20/11, mesure J+3 à J+7) : portée cumulée du feed 60 pour 5 posts (moyenne 12,0), 139 vues ; semaine 46 : 59. Stabilisation autour de 12 de portée par post, toujours sur les 32 abonnés (0 gagné, 0 perdu au 23/11)."
+    },
+    {
+      "date": "2026-11-23",
+      "regle": "Confirmé à J+5 : meilleur post de la semaine 47 = Preuve tarifs du 18/11 (portée 15, 36 vues), pire = carburant jauge/pige du 17/11 (8, 22). Les posts à chiffres concrets (prix, butées) passent devant les questions de pratique."
+    },
+    {
+      "date": "2026-11-23",
+      "regle": "Mesuré : l'hélice du 19/11 est passée de 9 à 14 de portée entre J+1,5 et J+4 ; le Produit du 20/11 reste à 9 à J+3. Démarrage lent confirmé : ne juger un post qu'à partir de J+4."
+    },
+    {
+      "date": "2026-11-23",
+      "regle": "Confirmé : 0 enregistrement et 0 commentaire sur les 19 posts du feed ; aucune question A/B/C n'a obtenu de réponse en commentaire en un mois."
+    },
+    {
+      "date": "2026-11-23",
+      "regle": "Appliqué aujourd'hui : savoir de prévol concret (purge), annoncé la veille par story ; aucun chiffre non sourcé dans le visuel, la seule durée (repos ~15 min après le plein) vient de la CAA Safety Sense 28."
     }
   ],
   "reels_grand_public_faits": [
