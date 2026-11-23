@@ -1,0 +1,15 @@
+{"slides": [
+{"eyebrow": "SAVOIR DU MÉCANO", "title": "Ton godet de purge, tu sais le *lire* ?", "body": "L'eau dans l'essence ne prévient pas. Elle se voit dans le godet, si on sait où regarder. Ce qu'on y cherche, et quand."},
+{"eyebrow": "QUAND", "title": "On purge *avant* de voler", "items": [
+{"k": "Premier vol du jour", "v": "Chaque point de purge, avion à plat"},
+{"k": "Après chaque plein", "v": "Laisse reposer le carburant une quinzaine de minutes"},
+{"k": "Après la pluie", "v": "Si l'avion a dormi dehors"}]},
+{"eyebrow": "L'EAU", "title": "L'eau tombe *au fond*", "body": "Plus lourde que l'essence, elle se pose au fond du godet. Tu vois une bille ou une couche nette, bien séparée. Un carburant trouble peut aussi cacher de l'eau en suspension."},
+{"eyebrow": "SUR FOND BLANC", "title": "La couleur, *et le reste*", "items": [
+{"k": "100LL", "v": "Bleu clair"},
+{"k": "Jet A-1", "v": "Clair à jaune paille. Pas le carburant de ton avion : tu ne voles pas"},
+{"k": "Rien ne se sépare ?", "v": "Vérifie que ton godet n'est pas plein d'eau"},
+{"k": "Dépôts, débris", "v": "Tu continues à purger"}]},
+{"eyebrow": "SI TU TROUVES DE L'EAU", "title": "Tu purges jusqu'à un godet *propre*", "body": "Nouvelles purges, en balançant les ailes entre deux. Si ça ne part pas, tu ne voles pas : tu appelles l'atelier."},
+{"eyebrow": "À TOI", "title": "Ton godet, tu le regardes *comment* ?", "choices": ["Sur fond blanc, à chaque point de purge", "Un coup d'œil et je vide", "Je purge rarement"]}
+]}
