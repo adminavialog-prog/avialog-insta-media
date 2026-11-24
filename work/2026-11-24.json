@@ -1,0 +1,41 @@
+{
+ "slides": [
+  {
+   "eyebrow": "À TOI",
+   "title": "Ta check-list prévol : *papier*, appli ou de mémoire ?",
+   "body": "Tout le monde fait sa prévol. Pas tout le monde de la même façon."
+  },
+  {
+   "eyebrow": "LA RÉFÉRENCE",
+   "title": "Tout part du *manuel de vol*",
+   "items": [
+    {
+     "k": "La source",
+     "v": "Le manuel de vol de ton avion fixe ce qu'il faut inspecter à la prévol"
+    },
+    {
+     "k": "Papier ou appli",
+     "v": "Les deux vont, tant que la liste est fidèle à ce manuel"
+    },
+    {
+     "k": "L'ordre",
+     "v": "Le constructeur prévoit un ordre de tour avion : le suivre évite de sauter un point"
+    }
+   ]
+  },
+  {
+   "eyebrow": "CE QU'ON VOIT À L'ATELIER",
+   "title": "Une prévol qui trouve un défaut, c'est une prévol *réussie*",
+   "body": "Ce que tu trouves au tour avion, tu le signales avant de voler. Et tu le montres à un mécano."
+  },
+  {
+   "eyebrow": "À TOI",
+   "title": "Ta prévol, tu la fais *comment* ?",
+   "choices": [
+    "Check-list papier",
+    "Appli sur téléphone ou tablette",
+    "De mémoire"
+   ]
+  }
+ ]
+}

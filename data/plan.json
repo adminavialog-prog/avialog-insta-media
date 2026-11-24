@@ -192,8 +192,8 @@
       "date": "2026-11-24",
       "pilier": "Conversation",
       "sujet": "Ta check-list prévol : papier, appli ou de mémoire ?",
-      "fait": false,
-      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; question A/B/C sans chiffre"
+      "fait": true,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; question A/B/C sans chiffre ; publié le 24/11 en carrousel 4 slides avec contenu sourcé (FAA Airplane Flying Handbook ch. 2 : prévol selon le manuel de vol ou une check-list basée dessus, ordre du constructeur)"
     },
     {
       "date": "2026-11-25",
@@ -745,6 +745,26 @@
     {
       "date": "2026-11-23",
       "regle": "Appliqué aujourd'hui : savoir de prévol concret (purge), annoncé la veille par story ; aucun chiffre non sourcé dans le visuel, la seule durée (repos ~15 min après le plein) vient de la CAA Safety Sense 28."
+    },
+    {
+      "date": "2026-11-24",
+      "regle": "Mesuré au 24/11 sur les mardis Conversation : METAR décodé (10/11) 19 de portée, carnet de vol (27/10) 15, carburant jauge/pige (17/11) 8. La question qui apporte un contenu concret (codes, définitions) passe devant la question de pratique pure."
+    },
+    {
+      "date": "2026-11-24",
+      "regle": "Mesuré au 24/11 : la portée moyenne du feed baisse, 23,4 sur les 5 premiers carrousels (26-30/10) contre 12,8 sur les 5 derniers mesurés (16-20/11), avec 32 abonnés et 0 gagné depuis le 23/10. Le feed ne touche plus que les abonnés."
+    },
+    {
+      "date": "2026-11-24",
+      "regle": "Confirmé au 24/11 : les 2 Reels mesurés font 118 et 126 de portée, contre 33 au mieux pour le feed (fondateurs 28/10). Le Reel reste le seul levier d'acquisition ; priorité au Reel du 29/11."
+    },
+    {
+      "date": "2026-11-24",
+      "regle": "Confirmé au 24/11 : 0 enregistrement et 0 commentaire sur les 19 posts du feed mesurés ; un seul partage en un mois (fondateurs, 28/10). Le meilleur de la semaine 47 reste Preuve tarifs (16 de portée, 40 vues à J+6)."
+    },
+    {
+      "date": "2026-11-24",
+      "regle": "Appliqué aujourd'hui : la question Conversation du 24/11 (check-list prévol) porte deux slides de contenu sourcé avant la question, au lieu d'une question seule."
     }
   ],
   "reels_grand_public_faits": [
