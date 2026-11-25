@@ -1,0 +1,12 @@
+{"slides": [
+{"eyebrow": "COULISSES ATELIER", "title": "Ton avion arrive à l'atelier. On regarde quoi en *premier* ?", "body": "Pas le moteur. D'abord ce que tu nous dis, puis l'avion, capots fermés."},
+{"eyebrow": "AVANT TOUT", "title": "On t'*écoute*", "items": [
+{"k": "Un bruit", "v": "À quel moment, à quel régime, depuis quand"},
+{"k": "Une vibration", "v": "En vol, au sol, ou les deux"},
+{"k": "Un comportement", "v": "Avion qui tire, frein qui accroche, démarrage difficile"}]},
+{"eyebrow": "CAPOTS FERMÉS", "title": "Puis on fait le *tour*", "items": [
+{"k": "Capot et ventre", "v": "Traces d'huile ou de carburant"},
+{"k": "Train et pneus", "v": "Usure, fuite de frein"},
+{"k": "Hélice", "v": "Impacts et entailles sur les bords d'attaque"}]},
+{"eyebrow": "LE CARNET", "title": "Ce qui est *écrit* arrive avec l'avion", "body": "Une remarque dite à l'oral peut se perdre en route. Avec Avialog, ce que tu signales est déjà sous les yeux de l'atelier. Toi, tu le dis comment ?", "choices": ["Noté au carnet ou dans l'appli", "À l'oral, en déposant l'avion", "Rarement"]}
+]}

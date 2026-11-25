@@ -158,16 +158,16 @@
       "note": "aucun sujet Conversation dans la banque ; reprend le meilleur post de la semaine 47 ; règle déjà vérifiée le 29/10 (programme minimal Part-ML, AMC1 ML.A.302(d))"
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-12-09",
       "sujet": "Les coulisses d'une mise à jour d'Avialog",
       "fait": false,
-      "note": "reporté du 18/11 : publier seulement avec le contenu réel d'une mise à jour (changelog public ou info d'Alexis/Jules), sinon remplacer"
+      "note": "reporté du 18/11 : publier seulement avec le contenu réel d'une mise à jour (changelog public ou info d'Alexis/Jules), sinon remplacer ; repoussé au 09/12 le 25/11 (toujours ni changelog ni retour autorisé disponible)"
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-12-09",
       "sujet": "Retour d'un aéroclub ou d'un atelier inscrit",
       "fait": false,
-      "note": "repoussé : publier uniquement avec un retour réel et autorisé, sinon basculer sur Coulisses"
+      "note": "repoussé : publier uniquement avec un retour réel et autorisé, sinon basculer sur Coulisses ; repoussé au 09/12 le 25/11 (toujours ni changelog ni retour autorisé disponible)"
     },
     {
       "date": "2026-12-03",
@@ -199,8 +199,8 @@
       "date": "2026-11-25",
       "pilier": "Coulisses",
       "sujet": "Ce qu'un mécano regarde en premier quand un avion arrive à l'atelier",
-      "fait": false,
-      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; angle humain, alternative aux deux sujets bloqués du 25/11"
+      "fait": true,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; angle humain, alternative aux deux sujets bloqués du 25/11 ; publié le 25/11 (carrousel 4 slides, angle « ce que tu nous dis » + tour capots fermés, sans chiffre ni article réglementaire)"
     },
     {
       "date": "2026-11-26",
@@ -765,6 +765,26 @@
     {
       "date": "2026-11-24",
       "regle": "Appliqué aujourd'hui : la question Conversation du 24/11 (check-list prévol) porte deux slides de contenu sourcé avant la question, au lieu d'une question seule."
+    },
+    {
+      "date": "2026-11-25",
+      "regle": "Mesuré au 25/11 (J+7) : Preuve tarifs du 18/11 monte à 17 de portée et 42 vues, meilleur post du feed depuis le METAR du 10/11 (19). Le contenu chiffré et vérifiable (prix publics) reste devant la pratique pure."
+    },
+    {
+      "date": "2026-11-25",
+      "regle": "Mesuré au 25/11 sur les Coulisses : fondateurs (28/10) 33 de portée et 97 vues, journée type à l'atelier (11/11) 10 de portée et 19 vues. Le Coulisses qui montre des personnes et un pourquoi passe très loin devant la description générique d'un process."
+    },
+    {
+      "date": "2026-11-25",
+      "regle": "Mesuré au 25/11 sur les Reels : le moteur (15/11, accroche animée dès l'image 0) retient au départ, view rate 3 s 42,1 % contre 25,5 % et 27,0 % pour les deux premiers, mais visionnage moyen 3,3 s contre 4,1 à 4,7 s. Pour le Reel du 29/11 : info utile avant 3 s et plans plus courts."
+    },
+    {
+      "date": "2026-11-25",
+      "regle": "Confirmé au 25/11 : 32 abonnés, 0 gagné, 0 perdu ; 0 enregistrement et 0 commentaire sur les 19 posts du feed mesurés. Les posts du 23 et 24/11 ne sont pas encore remontés."
+    },
+    {
+      "date": "2026-11-25",
+      "regle": "Appliqué aujourd'hui : Coulisses du 25/11 centré sur le rôle du pilote (ce qu'il dit à l'atelier) et sur des gestes concrets, plutôt que sur le déroulé d'une visite déjà traité le 11/11 ; aucun chiffre ni article réglementaire non vérifié."
     }
   ],
   "reels_grand_public_faits": [
