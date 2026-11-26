@@ -206,7 +206,7 @@
       "date": "2026-11-26",
       "pilier": "Savoir du mécano",
       "sujet": "Point fixe : à quoi sert l'essai des magnétos",
-      "fait": false,
+      "fait": true,
       "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; prolonge le Reel moteur du 15/11 ; chiffres de chute de régime = manuel de l'avion, ne pas généraliser"
     },
     {
@@ -785,6 +785,18 @@
     {
       "date": "2026-11-25",
       "regle": "Appliqué aujourd'hui : Coulisses du 25/11 centré sur le rôle du pilote (ce qu'il dit à l'atelier) et sur des gestes concrets, plutôt que sur le déroulé d'une visite déjà traité le 11/11 ; aucun chiffre ni article réglementaire non vérifié."
+    },
+    {
+      "date": "2026-11-26",
+      "regle": "Mesuré au 26/11 : portées du feed identiques à la veille sur les 18 posts mesurés, posts des 23, 24 et 25/11 toujours pas remontés ; 32 abonnés, 0 gagné, 0 perdu. Pas de nouvelle tendance."
+    },
+    {
+      "date": "2026-11-26",
+      "regle": "Mesuré au 26/11 : sur le feed, Savoir du mécano (9 posts, portée moyenne 16) et Produit (4 posts, moyenne 15) font jeu égal ; hors fondateurs (33), aucun post du feed ne dépasse 23. Le pilier ne départage pas le feed : seul le Reel (118 à 138) change d'échelle."
+    },
+    {
+      "date": "2026-11-26",
+      "regle": "Appliqué aujourd'hui : le carrousel magnétos prolonge le Reel moteur du 15/11 (meilleur view rate 3 s, 42,1 %) et porte un chiffre constructeur sourcé (Lycoming SI 1132B), le contenu chiffré vérifiable restant devant la pratique pure (tarifs 18/11)."
     }
   ],
   "reels_grand_public_faits": [

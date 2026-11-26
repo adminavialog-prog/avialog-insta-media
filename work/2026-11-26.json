@@ -1,0 +1,65 @@
+{
+"slides": [
+{
+"eyebrow": "SAVOIR DU MÉCANO",
+"title": "Essai magnétos : tu cherches *quoi* ?",
+"body": "Au point fixe, tu bascules sur L, puis sur R. Ce geste dit beaucoup de choses sur ton allumage, à condition de savoir quoi regarder."
+},
+{
+"eyebrow": "POURQUOI DEUX",
+"title": "Deux magnétos, *deux* bougies",
+"items": [
+{
+"k": "Redondance",
+"v": "Deux allumages indépendants : si l'un lâche, l'autre fait tourner le moteur"
+},
+{
+"k": "Combustion",
+"v": "Deux bougies par cylindre, une par magnéto : le mélange brûle mieux"
+}
+]
+},
+{
+"eyebrow": "LE GESTE",
+"title": "Une magnéto, puis *BOTH*",
+"items": [
+{
+"k": "Régime",
+"v": "Celui que donne le manuel de ton avion"
+},
+{
+"k": "L, puis BOTH",
+"v": "Tu notes la chute de tours, tu reviens sur les deux"
+},
+{
+"k": "R, puis BOTH",
+"v": "Même chose de l'autre côté. Pas trop longtemps sur une seule"
+}
+]
+},
+{
+"eyebrow": "CE QUE TU COMPARES",
+"title": "La chute, *et l'écart*",
+"body": "Chaque chute, et la différence entre les deux, face aux limites de ton manuel. Exemple : sur la plupart de ses moteurs, Lycoming donne 175 tr/min de chute au plus et 50 d'écart. Ton manuel fait foi."
+},
+{
+"eyebrow": "AUCUNE CHUTE",
+"title": "Zéro chute, ce n'est *pas* bon signe",
+"body": "Ça peut être un fil de masse coupé : la magnéto ne se coupe plus. Contact sur OFF, l'hélice peut lancer le moteur. Tu le signales à l'atelier avant de voler."
+},
+{
+"eyebrow": "CHUTE TROP FORTE",
+"title": "Le moteur tousse ? On *cherche*",
+"body": "Souvent une bougie encrassée. Certains manuels prévoient d'appauvrir puis de refaire l'essai. Toujours hors limites : tu ne pars pas, l'atelier regarde bougies, faisceau, calage."
+},
+{
+"eyebrow": "À TOI",
+"title": "Ta chute de tours, tu la compares *à quoi* ?",
+"choices": [
+"Aux limites du manuel",
+"Juste entre L et R",
+"Je vérifie que ça tourne"
+]
+}
+]
+}
