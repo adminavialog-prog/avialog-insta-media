@@ -213,8 +213,8 @@
       "date": "2026-11-27",
       "pilier": "Produit",
       "sujet": "Les échéances de ton avion, vues par toi, l'atelier et la CAMO",
-      "fait": false,
-      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; prolonge Potentiel/butée (meilleur Savoir de la semaine 47) ; angle atelier, carrousel court"
+      "fait": true,
+      "note": "ajouté le 22/11 (banque quasi épuisée, sujets restants bloqués) ; prolonge Potentiel/butée (meilleur Savoir de la semaine 47) ; angle atelier, carrousel court ; publié le 27/11 (carrousel 5 slides, 10:00) : butées déjà vérifiées (100 h / annuelle au premier terme AMC1 ML.A.302(d), ARC 1 an ML.A.901, moteur en heures ou calendaire selon constructeur, Lycoming SI 1009BF) ; aucune fonction produit non vérifiable, seulement le message de fond (saisi une fois, visible en temps réel) ; CTA avialog.fr"
     },
     {
       "date": "2026-11-30",
@@ -797,6 +797,18 @@
     {
       "date": "2026-11-26",
       "regle": "Appliqué aujourd'hui : le carrousel magnétos prolonge le Reel moteur du 15/11 (meilleur view rate 3 s, 42,1 %) et porte un chiffre constructeur sourcé (Lycoming SI 1132B), le contenu chiffré vérifiable restant devant la pratique pure (tarifs 18/11)."
+    },
+    {
+      "date": "2026-11-27",
+      "regle": "Mesuré au 27/11 : Preuve tarifs (18/11) monte à 18 de portée et 44 vues, toujours meilleur post du feed depuis le METAR du 10/11 ; Produit défaut à la prévol (20/11) à 11 de portée et 28 vues. Posts des 23 à 26/11 toujours pas remontés ; 32 abonnés, 0 gagné, 0 perdu."
+    },
+    {
+      "date": "2026-11-27",
+      "regle": "Mesuré au 27/11 sur le pilier Produit (30/10 : 23, 06/11 : 11, 13/11 : 15, 20/11 : 11 de portée) : moyenne 15, comme le Savoir du mécano. Le seul Produit au-dessus de 20 est le premier (30/10). Le récit « pilote, atelier, club, CAMO » seul ne fait plus monter la portée : il faut l'adosser à un contenu concret et vérifiable."
+    },
+    {
+      "date": "2026-11-27",
+      "regle": "Appliqué aujourd'hui : Produit adossé au carrousel Potentiel/butée (16/11, 33 vues) avec des butées déjà vérifiées (100 h / annuelle, ARC 1 an, révision moteur) et CTA avialog.fr, le premier depuis le 18/11 (6 posts sans CTA, règle 1 sur 5 respectée)."
     }
   ],
   "reels_grand_public_faits": [

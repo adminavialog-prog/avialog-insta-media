@@ -1,0 +1,63 @@
+{
+"slides": [
+{
+"eyebrow": "PRODUIT",
+"title": "Les échéances de ton avion : qui les *voit* ?",
+"body": "Une visite, un ARC, un moteur. Trois compteurs, quatre acteurs."
+},
+{
+"eyebrow": "LES COMPTEURS",
+"title": "Des *butées* qui tombent toutes seules",
+"items": [
+{
+"k": "Visite 100 h / annuelle",
+"v": "Au premier des deux termes atteint"
+},
+{
+"k": "ARC",
+"v": "Valable 1 an"
+},
+{
+"k": "Moteur",
+"v": "Révision en heures ou au calendrier, selon le constructeur"
+}
+]
+},
+{
+"eyebrow": "CE QU'ON VOIT À L'ATELIER",
+"title": "Chacun a *sa* date",
+"items": [
+{
+"k": "Pilote",
+"v": "Découvre l'échéance en réservant l'avion"
+},
+{
+"k": "Aéroclub",
+"v": "Tient son tableau de son côté"
+},
+{
+"k": "Atelier Part-CAO",
+"v": "Cale la visite au dernier moment"
+},
+{
+"k": "CAMO",
+"v": "Suit les butées dans ses propres outils"
+}
+]
+},
+{
+"eyebrow": "AVEC AVIALOG",
+"title": "Une info, *quatre* regards",
+"body": "Ce que l'atelier Part-CAO enregistre sur l'avion, le pilote, l'aéroclub et la CAMO le voient en temps réel. Saisi une fois, sans coup de fil."
+},
+{
+"eyebrow": "À TOI",
+"title": "Ta prochaine *échéance*, tu la connais ?",
+"choices": [
+"Oui, la date et les heures",
+"À peu près",
+"Non, je demande à l'atelier"
+]
+}
+]
+}
